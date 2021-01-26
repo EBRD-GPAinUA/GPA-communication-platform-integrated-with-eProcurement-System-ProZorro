@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ua" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ua" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ua"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="csrf-token" content="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W297TCW');</script>
+    <!-- End Google Tag Manager -->
+
+    <title>Рекомендації щодо участі українського бізнесу в тендерах Чехії</title>
+        <meta name="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+        
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="Рекомендації щодо участі українського бізнесу в тендерах Чехії">
+        <meta itemprop="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta itemprop="image" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://twitter.com/the_prozorro">
+        <meta name="twitter:title" content="Рекомендації щодо участі українського бізнесу в тендерах Чехії">
+        <meta name="twitter:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:image:src" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="Рекомендації щодо участі українського бізнесу в тендерах Чехії" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-chehiji" />
+        <meta property="og:image" content="https://infobox.prozorro.org/images/icons/default.png" />
+        <meta property="og:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+                        <meta property="article:published_time" content="2020-11-24 00:00:00" />
+        <meta property="article:section" content="Контент" />
+                                
+<!-- automatically generated meta tags -->
+
+
+    
+    <link rel="stylesheet" href="/css/app.css?id=8661cee750b833c67074">
+    <link rel="stylesheet" href="/css/vendor.css?id=e288baa35b544989d39a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73544428-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73544428-6');
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?hl=uk" async defer></script>
+
+</head>
+
+<body class=mt-header>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W297TCW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noclass="block-searchscript) -->
+<header class="header">
+        <div class="container">
+            <div class="navigation-bar">
+
+            <a href='/' class="navigation-bar-logo-panel">
+                <img src="/images/logo.png" class="navigation-bar-logo-panel__image">
+                <div class="navigation-bar-logo-panel__title">
+                    <span>PROZORRO <span>інфобокс</span></span>
+                    <span class="navigation-bar-logo-panel__title-desc">центр знань про публічні закупівлі</span>
+                </div>
+            </a>
+
+            <div class="navigation-bar-menu">
+                <a href="https://infobox.prozorro.org/articles" class="navigation-bar-menu__link ">Все про закупівлі</a>
+                <a href="https://infobox.prozorro.org/updates" class="navigation-bar-menu__link ">Оновлення</a>
+                <a href="https://infobox.prozorro.org/gpa" class="navigation-bar-menu__link active">Міжнародні тендери GPA</a>
+                <a href="https://infobox-forum.prozorro.org" class="navigation-bar-menu__link active">Питання до спільноти</a>
+                <a href="https://infobox.prozorro.org/news-mert" class="navigation-bar-menu__link ">Законодавство</a>
+                <a href="https://infobox.prozorro.org/courses" class="navigation-bar-menu__link ">Онлайн курси</a>
+                <a href="https://infobox.prozorro.org/newlaw-zamovnykam" class="navigation-bar-menu__link ">Новий закон</a>
+            </div>
+
+                <a class="navigaton-bar-button navigaton-bar-button_x">
+                    <div class="navigaton-bar-button__icon"></div>
+                </a>
+            </div>
+        </div>
+    </header>
+
+<main id="app" class=content>
+    
+    <section class="p-article m-news">
+
+        <div class="page-block">
+            <subscribe-header></subscribe-header>
+        </div>
+
+        <main class="container-v2">
+            <div class="content">
+                <items-component type="news" v-bind:initial-show="false"></items-component>
+
+                <article-component inline-template>
+                    <div class="block-article">
+
+                        <div class="article__body">
+
+                            <div class="body__head">
+                                <div class="head__image">
+                                </div>
+                                <div class="head__info">
+                                    <h1 class="info__title">
+                                        Рекомендації щодо участі українського бізнесу в тендерах Чехії
+                                    </h1>
+                                    <div class="info__subtitle">
+                                                                                    <span class="subtitle__author">Taras Shymko</span>
+                                                                                <span class="subtitle__date">24.11.2020</span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                                                            <div class="body__caption">
+                                    Детальна інструкція щодо участі в закупівлях Чехії
+                                </div>
+                            
+                            <div class="body__text">
+                                <p class="MsoNormal">Система державних закупівель в Чехії повністю децентралізована, де всі операції із закупівель здійснюються закупівельними організаціями (замовниками) самостійно. З іншого боку, будучи членом ЄС, Чеська Республіка має законодавство про закупівлі, що базується на директивах ЄС щодо державних закупівель. Три директиви ЄС (Директива № 23 від 2014 року щодо укладання договорів концесії, Директива № 24 від 2014 року про здійснення державних закупівель в державному секторі та Директива № 25 про здійснення державних закупівель в комунальній сфері) імплементовані єдиним Законом про державні закупівлі, який діє з 1.10.2016 (<a href="https://www.zakonyprolidi.cz/cs/2016-134" target="_blank">Закон № 134/2016</a>).</p><p class="MsoNormal">Оскільки в країнах ЄС національне законодавство базується на директивах, для українського бізнесу досить зручно його розуміти, оскільки українське національне законодавство (чинне законодавство 2016 року та їого нова редакція, що набуває чинності в 2020 році) також ґрунтуються на директивах ЄС, як це передбачено через виконання відповідно до Угоди про Асоціацію між Україною та ЄС.</p><p class="MsoNormal">Є також кілька підзаконних актів, де найбільш важливими в практичному сенсі є правила щодо функціонування національної системи електронних закупівель NEN (абревіатура, що означає Національний електронний інструмент (Národní Elektronický Nástroj чеською). (Постанова Уряду від 5 серпня 2014 №628/2014 і відповідний наказ Міністерства регіонального розвитку Чехії як адміністратора NEN).</p><p class="MsoNormal">Закон Чехії про державні закупівлі розрізняє три види закупівель: </p><p class="MsoListParagraph">- «державний контракт, що перевищує пороговий рівень ЄС», </p><p class="MsoListParagraph">- «державний контракт, що не перевищує пороговий рівень ЄС», </p><p class="MsoListParagraph">- «дрібний державний контракт» на основі різних порогових значень, </p><p class="MsoNormal">а саме:</p><h2>Дрібні державні контракти</h2><p class="MsoNormal"> </p><p class="MsoListParagraph"><i>1) </i><i>Дрібні державні контракти на:</i></p><ul><li>Товари та послуги, що оцінюються нижче еквіваленту 78 300 євро (2 млн. чеських крон);</li><li>Роботи, що оцінюються нижче еквіваленту біля 235 000 євро (6 млн. чеських крон);</li></ul><p class="MsoNormal">Такі договори не вимагають жодної спеціальної процедури, тому повністю на власний розсуд присуджуються замовниками, Закон про державні закупівлі вимагає лише дотримання основних принципів ефективності, доброчесності та недискримінації.</p><p class="MsoListParagraph"><i>2) </i><i>Контракти нижче порогових значень ЄС для обов'язкових процедур закупівель для:</i></p><ul><li>товарів та послуг: від 78 300 євро до 144 000 євро,</li><li>будівельних робіт від 235 000 євро до 2 000 000 євро. Контракт від 2 000 000 євро до порогового рівня (5 548 000 євро) розігрується за процедурою ЄС, але без опублікування на порталі тендерів ЄС щодо державних закупівель (<b><a href="https://ted.europa.eu/" target="_blank">TED</a></b>).</li></ul><h2>Обсяг ринку Чехії</h2><p>Загалом такі договори вимагають проведення так званих «спрощених» тендерних процедур, досить подібних до процедури ЄС, але з деякою гнучкістю коротші строки аніж контракти ЄС, процедура переговорів з публікацією або без неї може використовуватися досить широко, не дотримуючись обов'язкових для ЄС умов.</p><p>Для таких спрощених тендерів замовники повинні публікувати повідомлення про тендер у Системі електронних закупівель, що дозволяє будь-кому брати участь. Крім того, замовник може додатково запросити як мінімум п’ять кандидатів для демонстрації кваліфікації та подання пропозиції. Інформація про тендерну пропозицію з найвищою і найнижчою ціною також оприлюднюється в Системі електронних закупівель. </p><p>Як згадано вище, у контрактах "Між національними пороговими та пороговими показниками ЄС" (так звані "Контракти нижче-порогів ЄС") застосовуються більш гнучкі правила, які передбачають конкурентний спосіб процедури та обов'язкове опублікування (крім процедури узгоджених процедур без публікації) чеською мовою – в електроній системі закупівель <a href="https://nen.nipez.cz" target="_blank">NEN</a>. Таким чином, основним джерелом інформації про умови участі у конкретному тендері є конкретна тендерна документація конкретного тендера, яка може бути отримана від конкретного замовника (лише чеською мовою) після опублікування повідомлення про тендер (також лише чеською мовою).</p><p>3)	Пороги на рівні ЄС для обов'язкових процедур закупівель відповідно до єдиних правил ЄС щодо:</p><ul><li>товарів та послуг: від 144 000 євро,</li><li>будівельних робіт: від 5 548 000 євро,</li><li>соціальних та медичних послуг: від 400 000 євро,</li><li>концесій (послуг та робіт): від 783 000 євро (20 млн. крон).</li></ul><p>Обсяг чеського ринку державних закупівель у 2018 році, який підпадає під обов'язкові тендерні процедури, становив близько 24 млрд. євро. У 2018 році найбільш вартісними були закупівлі:</p><ul><li>робіт (майже 7 млрд. євро),</li><li>нафтопродуктів, електроенергії та палива (1,8 млрд. євро),</li><li>транспортних засобів та супутнього обладнання (близько 1,3 млрд. євро),</li><li>медичного обладнання та ліків (0,9 млрд. євро),</li><li>ІТ-послуг (близько 573 млн. євро),</li><li>ремонти та господарське обслуговування (близько 500 млн. євро).</li></ul><p>Тобто, відкритий тендер є абсолютно домінуюча процедура закупівлі. </p><p>Найбільшими державними замовниками є Міністерство внутрішніх справ Чехії, Агентство доріг, місто Прага.</p><p>Ця досить велика вартість (річна вартість держаніх закупівель в Чехії в 2018 році була майже в 2 рази більшою, ніж вартість українських закупівель у 2018 році) разом з невеликою відстанню від України, робить Чехію досить привабливою для українського бізнесу. Ще одним важливим фактором є те, що в Чехії є дуже велика українська трудова діаспора (друга зарубіжна діаспора), отже багато українців мають чеський робочий та діловий досвід, який може бути корисним ресурсом чеськомовних фахівців, які знають особливості ведення бізнесу в Чехії. Ще одна позитивна особливість це низький мовний бар’єр, оскільки є схожість чеської та української мов як з однієї слов'янської мовної родини. </p><p>Чехія як член ЄС є членом Угоди СОТ про державні закупівлі (GPA), як власне і Україна, що значно спрощує режим доступу до ринків державних закупівель обох країн.</p><h2>Де шукати можливі тендери та як подати тендерну пропозицію</h2><p class="MsoNormal">Усі процедури закупівлі (а також концесійні конкурси) всіх замовників Чехії публікуються на Порталі тендерних оголошень <a href="https://nen.nipez.cz/" target="_blank">NEN</a> (National Electronic Tool) чеською, але ніколи англійською мовою.</p><p class="MsoNormal">У випадку значень, що перевищують пороги ЄС, повідомлення також публікуються в Електронному журналі тендерних оголошень <a href="https://ted.europa.eu" target="_blank">ЄС</a>(Tenders Electronic Daily - <b>TED</b>) англійською мовою.</p><p class="MsoNormal">Для участі та подання тендерних пропозицій будь-який економічний оператор (місцевий чи закордонний) повинен бути зареєстрований або безпосередньо в NEN або на одній із 5 приватних електронних платформ. В останніх випадках досить зручно використовувати інтегровану електронну платформу <a href="https://fen.cz/#/" target="_blank">FEN</a>(FUNKČNÍ ELEKTRONICKÝ NÁSTROJ), що об'єднує ці 5 платформ. Мета FEN - максимально полегшити доступ постачальників до тендерних процедур, щоб вони могли знайти тендер і подати його з одного місця та з одного облікового запису користувача.</p><p class="MsoNormal">Різниця між NEN (державна) та FEN (приватна) - це якість та рівень послуг для учасників торгів, де FEN забезпечує розширеніші пошукові та допоміжні послуги, що допомагають швидше та простіше підготувати тендерну пропозицію, але за певну плату, в той час як NEN безкоштовний як для замовників, так і для економічних операторів. Тоб то, хочеш додатковий сервіс – маєш за це сплатити!</p><p class="MsoNormal">Розглянемо, як працювати з NEN, де також доступний частковий англійський інтерфейс, беручи до уваги, що це безкоштовна загальнодоступна платформа з детальними правилами та рекомендаціями що властиво державному серсвісу. Як уже згадувалося, публічний доступ до NEN є безкоштовним для всіх, але для участі в тендерах у якості учасника торгів необхідна реєстрація, яка вимагає дійсного та кваліфікованого електронного підпису, виданого визнаним провайдером ЄС. Перелік таких провайдерів - <b>Trusted List</b>, наведено за посиланням: <a href="https://webgate.ec.europa.eu/tl-browser/#/">https://webgate.ec.europa.eu/tl-browser/#/</a></p>
+                            </div>
+
+                            <div class="body__pdf">
+                            <div class="js__pdf-container">
+                    <div class="js__pdf-content">
+
+                    </div>
+
+                    <div class="js_pdf-source" style="display: none">
+                        <object data="/upload/files/main/1393/542/gpa-guide-czech-ukr-final.pdf" type="application/pdf" width="100%" height="100%" style="height: 600px;">
+                            <embed src="/upload/files/main/1393/542/gpa-guide-czech-ukr-final.pdf" type="application/pdf">
+                            <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/upload/files/main/1393/542/gpa-guide-czech-ukr-final.pdf">Download PDF</a>.</p>
+                        </object>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="body__file">
+            <a class="button" href="/upload/files/main/1393/542/gpa-guide-czech-ukr-final.pdf" target="_blank">
+                <i class="fas fa-download"></i> Відкрити
+            </a>
+        </div>
+    
+                            
+                            <div class="comments row">
+                                <div class="article__social">
+    <div class="rating-controls" data-post-id="1393" role="group">
+        <div class="rating-controls__btn-group">
+            <span class="rating-controls__title">Сподобалась стаття?</span>
+
+            <button class="rating-controls__btn rating-controls__btn_like">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+            </button>
+
+            <button class="rating-controls__btn rating-controls__btn_dislike">
+                <i class="fa fa-thumbs-down" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="rating-controls__btn-group rating-controls__btn-group_none">
+            <span class="rating-controls__title">
+                Сподобалось:
+                <b class="rating-controls__amount" id="likes">
+                    0
+                </b>
+            </span>
+                <span class="rating-controls__title rating-controls__title_ml">
+                Не сподобалось:
+                <b class="rating-controls__amount" id="dislikes">
+                    0
+                </b>
+            </span>
+        </div>
+    </div>
+
+    <div class="rating-controls">
+        <div class="rating-controls__title">Поділитися:</div>
+
+        <social-sharing url="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-chehiji" inline-template>
+            <div  class="block-share__links">
+                <network network="facebook">
+                    <div class="block-share__link m__fb"><i class="fab fa-facebook-f"></i></div>
+                </network>
+                <network network="twitter">
+                    <div class="block-share__link m__twitter"><i class="fab fa-twitter"></i></div>
+                </network>
+                <network network="telegram">
+                    <div class="block-share__link m__telegram"><i class="fab fa-telegram-plane"></i></div>
+                </network>
+            </div>
+        </social-sharing>
+    </div>
+</div>
+
+<div class="block_comments">
+    <div class="coments_title_wrapper">
+        <h3 class="commenst_title">Коментарі</h3>
+        <button class="add_comment button button_blue">Залишити коментар</button>
+    </div>
+    <div class="comments_wrapper">
+                    <h4>До цієї статті ще немає коментарів. Станьте першим.</h4>
+            </div>
+
+</div>
+
+<div class="modal reviev_modal">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="review_form_wrapper">
+                <form id="review_form">
+
+                    <div class="form-group">
+                        <input class="forms-back_input form-control" name="name" id="name" type="text" placeholder="Ваше ім`я">
+                        <input class="forms-back_input form-control" name="email" id="email" type="text" placeholder="Ваш email">
+                        <input type="hidden" name="parent_id" value="0">
+                        <input type="hidden" name="post_id" value="1393">
+                        <input type="hidden" name="module_name" value="gpa">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="error forms-back_textarea" placeholder="Ваш коментар"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6Le8Qr4ZAAAAAPEneHEfVPgQzaVUf1Hce6ZLYg3b"></div>
+                    </div>
+
+                    <button class="send_review button button_blue">Надіслати коментар</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </article-component>
+
+            </div>
+
+            <aside class="aside__controls article__nav">
+                <acticle-navigation></acticle-navigation>
+            </aside>
+        </main>
+
+        <div class="page-block block-start article__subscribe">
+            <div class="container">
+                <div id="block-subscribe" class="block-subscribe block-subscribe-v2">
+    <div class="block-subscribe__wrapper">
+        <div class="block-subscribe__title">Актуальні новини, статті інфобоксу, роз&#039;яснення</div>
+        <form id="email-subscribe" class="form-subscribe" action="" method="get">
+            <div class="form-subscribe__input_wrapper">
+                <input placeholder="E-mail" class="form-subscribe__input" data-rule-required="true" data-msg-required="Введіть ваш email" data-rule-email="true" data-msg-email="Введіть дійсний email" name="email" type="text" value="">
+            </div>
+
+            <button class="form-subscribe__submit button" type='submit'>ПІДПИСАТИСЯ</button>
+        </form>
+    </div>
+</div>
+            </div>
+        </div>
+
+    </section>
+</main>
+<footer class="footer">
+        <div class="container">
+            <div class="footer__bl">
+                <div class="footer__links">
+                    <a class="footer__link" href="https://infobox.prozorro.org/faq" target="_blank">FAQ</a>
+                    <a class="footer__link" href="https://specifications.prozorro.org/specifications" target="_blank">Специфікації</a>
+                    <a class="footer__link" href="http://edubox.prozorro.org/forum" target="_blank">Форум</a>
+                    <a class="footer__link" href="https://dozorro.org/tools" target="_blank">Інструменти моніторингу</a>
+                    <a class="footer__link" href="https://infobox.prozorro.org/courses">Онлайн курси</a>
+                    <p class="footer__copyright">Інфобокс Prozorro(с)</p>
+                </div>
+                <div class="footer__links">
+                    <a class="footer__link" href="https://prozorro.gov.ua/" target="_blank">Головна Prozorro</a>
+                    <a class="footer__link" href="https://prozorro.gov.ua/majdanchiki-prozorro" target="_blank">Майданчики</a>
+                    <a class="footer__link" href="https://dozorro.org/" target="_blank">Dozorro</a>
+                    <a class="footer__link" href="http://www.me.gov.ua/?lang=uk-UA" target="_blank">МЕРТУ</a>
+                    <a class="footer__link" href="http://www.amc.gov.ua/amku/control/main/uk/index" target="_blank">АМКУ</a>
+                </div>
+            </div>
+            <div class="footer__bl">
+                <div class="footer__contact">
+                    <p class="main__p">Контакти</p>
+                    <p class="contact__phone">тел. (044) 281-42-87</p>
+                    <p class="contact__sh">пн-чт 8.30 - 17.15 <br> пт 8.30 - 16.00</p>
+                    <p class="contact__email">feedback@prozorro.ua</p>
+                </div>
+                <div class="footer__social">
+                    <p class="main__p">Слідкуйте за нами</p>
+                    <div class="social__icons">
+                        <a class="social__link" href="https://www.facebook.com/prozorro.gov.ua" target="_blank"><img src="/images/fb.svg"></a>
+                        <a class="social__link" href="https://www.youtube.com/channel/UCI-2twjrz8C4dYiQXDGZf5g" target="_blank"><img src="/images/yt.svg"></a>
+                        <a class="social__link" href="https://twitter.com/the_prozorro" target="_blank"><img src="/images/tv.svg"></a>
+                        <a class="social__link" href="https://www.instagram.com/prozorro_team/" target="_blank"><img src="/images/inst.svg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://embed.small.chat/T04QGHNFQGFJRS25CY.js" async></script>
+
+<div class="modal m-subscription">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+
+            <div class="form-content">
+                <div class="form-content-first">
+                    <div class="modal__title">Яку саме інформацію ви бажаєте отримувати?</div>
+                    <div class="modal__description">Ми прагнемо доставляти лише ті повідомлення, які ви хочете отримувати. Якщо вас цікавлять повідомлення про щось нове на інфобоксі, залиште вашу адресу електроної пошти тут.</div>
+
+                    <form method="POST" action="https://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-chehiji" accept-charset="UTF-8" role="form" class="form-help form_ajax" data-url="/api/subscribe" data-renew="1"><input name="_token" type="hidden" value="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+
+                    <input type="hidden" name="email" class="input_email">
+
+                    <div class="modal__options">
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="customer" type="checkbox" checked value="1">
+                                <div class="blue">для замовників</div>
+                                <div>Отримувати поради та актуальну інформацію для Замовника</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="users" type="checkbox" checked value="1">
+                                <div class="green">для постачальників</div>
+                                <div>Отримувати повідомлення про нові статті та актуальну інформацію для постачальників</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="press" type="checkbox" checked value="1">
+                                <div class="orange">для журналістів</div>
+                                <div>Отримувати повідомлення про актуальні можливості системи з моніторінгу публічних закупівель</div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="form-subscribe__submit button button_green solid" type='submit'>ПІДПИСАТИСЯ</button>
+
+                    </form>
+                </div>
+
+                <div class="form-content-last">
+                    <div class="message">
+                        Дякуємо за підписку на розсилку від Прозорро
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal-window_image-zoom">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="modal-window__image-zoom">
+                <img class="modal-window_image" src="">
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="/js/app.js?id=dcc7a4755264c6411045"></script>
+</body>
+</html>

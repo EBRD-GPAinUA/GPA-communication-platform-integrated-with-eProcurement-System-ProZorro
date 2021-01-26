@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ua" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ua" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ua"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="csrf-token" content="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W297TCW');</script>
+    <!-- End Google Tag Manager -->
+
+    <title>Рекомендації щодо участі українського бізнесу в тендерах країн Балтії</title>
+        <meta name="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+        
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="Рекомендації щодо участі українського бізнесу в тендерах країн Балтії">
+        <meta itemprop="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta itemprop="image" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://twitter.com/the_prozorro">
+        <meta name="twitter:title" content="Рекомендації щодо участі українського бізнесу в тендерах країн Балтії">
+        <meta name="twitter:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:image:src" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="Рекомендації щодо участі українського бізнесу в тендерах країн Балтії" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-inozemnih-tenderah-krajin-baltiji" />
+        <meta property="og:image" content="https://infobox.prozorro.org/images/icons/default.png" />
+        <meta property="og:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+                        <meta property="article:published_time" content="2020-11-24 00:00:00" />
+        <meta property="article:section" content="Контент" />
+                                
+<!-- automatically generated meta tags -->
+
+
+    
+    <link rel="stylesheet" href="/css/app.css?id=8661cee750b833c67074">
+    <link rel="stylesheet" href="/css/vendor.css?id=e288baa35b544989d39a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73544428-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73544428-6');
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?hl=uk" async defer></script>
+
+</head>
+
+<body class=mt-header>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W297TCW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noclass="block-searchscript) -->
+<header class="header">
+        <div class="container">
+            <div class="navigation-bar">
+
+            <a href='/' class="navigation-bar-logo-panel">
+                <img src="/images/logo.png" class="navigation-bar-logo-panel__image">
+                <div class="navigation-bar-logo-panel__title">
+                    <span>PROZORRO <span>інфобокс</span></span>
+                    <span class="navigation-bar-logo-panel__title-desc">центр знань про публічні закупівлі</span>
+                </div>
+            </a>
+
+            <div class="navigation-bar-menu">
+                <a href="https://infobox.prozorro.org/articles" class="navigation-bar-menu__link ">Все про закупівлі</a>
+                <a href="https://infobox.prozorro.org/updates" class="navigation-bar-menu__link ">Оновлення</a>
+                <a href="https://infobox.prozorro.org/gpa" class="navigation-bar-menu__link active">Міжнародні тендери GPA</a>
+                <a href="https://infobox-forum.prozorro.org" class="navigation-bar-menu__link active">Питання до спільноти</a>
+                <a href="https://infobox.prozorro.org/news-mert" class="navigation-bar-menu__link ">Законодавство</a>
+                <a href="https://infobox.prozorro.org/courses" class="navigation-bar-menu__link ">Онлайн курси</a>
+                <a href="https://infobox.prozorro.org/newlaw-zamovnykam" class="navigation-bar-menu__link ">Новий закон</a>
+            </div>
+
+                <a class="navigaton-bar-button navigaton-bar-button_x">
+                    <div class="navigaton-bar-button__icon"></div>
+                </a>
+            </div>
+        </div>
+    </header>
+
+<main id="app" class=content>
+    
+    <section class="p-article m-news">
+
+        <div class="page-block">
+            <subscribe-header></subscribe-header>
+        </div>
+
+        <main class="container-v2">
+            <div class="content">
+                <items-component type="news" v-bind:initial-show="false"></items-component>
+
+                <article-component inline-template>
+                    <div class="block-article">
+
+                        <div class="article__body">
+
+                            <div class="body__head">
+                                <div class="head__image">
+                                </div>
+                                <div class="head__info">
+                                    <h1 class="info__title">
+                                        Рекомендації щодо участі українського бізнесу в тендерах країн Балтії
+                                    </h1>
+                                    <div class="info__subtitle">
+                                                                                    <span class="subtitle__author">Олександр Шатковський, Тарас Шимко</span>
+                                                                                <span class="subtitle__date">24.11.2020</span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                                                            <div class="body__caption">
+                                    Детальна інструкція щодо участі в закупівляї Латвії, Литви, Естонії
+                                </div>
+                            
+                            <div class="body__text">
+                                <p class="MsoNormal">Системи державних закупівель у Латвії, Литві та Естонії (також відомі як Балтійські країни)  є поєднанням децентралізованих (де більшість закупівель здійснюються закупівельними організаціями (замовниками) самостійно) та частково централізованих систем з принаймні однією централізованою закупівельною організацією, заснованою центральною владою. З іншого боку, будучи членами ЄС, всі 3 Балтійські країни мають законодавство про закупівлі, що базується на директивах ЄС щодо державних закупівель. Дві  директиви ЄС (Директива № 24 від 2014 року про здійснення державних закупівель в державному секторі та Директива № 25 про здійснення державних закупівель в комунальній сфері) імплементовані в Естонії єдиним Законом про державні закупівлі (прийнятий наприкінці 2016 року та набув чинності  з 1.09.2017), у Латвії (прийнятий наприкінці 2016 року та набув чинності  з 1.03.2017) та двома законами у Литві (відповідно закон для закупівель державного сектора і для закупівель в комунальній сфері – набули чинності з 1 липня 2017 року).</p><p class="MsoNormal">Оскільки в країнах ЄС національне законодавство базується на директивах ЄС, для українського бізнесу досить зручно його розуміти, оскільки українське національне законодавство (чинний  закон 2016 року та його нова редакція, що набуває чинності в 2020 році) також ґрунтуються на директивах ЄС, як це передбачено відповідно до Угоди про Асоціацію між Україною та ЄС.</p><h2>Види закупівель в країнах Балтії</h2><p class="MsoNormal">Законодавство всіх трьох країн Балтії розрізняє три види закупівель: </p><ul><li>«державний контракт, що перевищує пороговий рівень ЄС»,</li><li>«державний контракт, що не перевищує пороговий рівень ЄС»,</li><li>«дрібний державний контракт» на основі різних порогових значень, а саме:</li></ul><p class="MsoListParagraph"><b><i>1) </i></b><b><i>Дрібні державні контракти: </i></b></p><p class="MsoNormal"><i>В Естонії (називаються «прості контракти»):</i></p><ul><li>Товари та послуги з вартістю  від 30 000 до 60 000 ЄВРО;</li><li>Роботи з вартістю  від 60 000 до 150 000 ЄВРО;</li></ul><p class="MsoNormal"><i>У Латвії</i></p><ul><li>Товари та послуги з вартістю  від 10 000 до 42 000 ЄВРО;</li><li>Роботи з вартістю  від 20 000 до 170 000 ЄВРО;</li></ul><p class="MsoNormal">В Естонії та Латвії  договори про закупівлі з вартістю нижче цих меж не вимагають жодної спеціальної процедури, тому повністю на власний розсуд присуджуються замовниками. Для закупівель у вказаних вартісних діапазонах передбачені спеціальні правила – в Естонії прямо у Законі про державні закупівлі, натомість у Латвії такі правила затверджені місцевим Кабінетом Міністрів.  </p><p class="MsoNormal"> <i>У Литві</i></p><ul><li>Товари та послуги з вартістю  менше 58 000 ЄВРО;</li><li>Роботи з вартістю  менше  145 000 ЄВРО.</li></ul><p class="MsoNormal">У Литві договори про закупівлю нижче цих меж, але вище ніж 10 000 ЄВРО, укладаються за процедурами згідно спеціальних правил, затверджених місцевим Офісом Державних Закупівель щодо дрібних закупівель, а замовники у комунальній сфері самостійно визначають правила таких закупівель своїми внутрішніми інструкціями.  </p><p class="MsoListParagraph"><b><i>2) Контракти нижче порогових значень ЄС для обов'язкових процедур закупівель </i></b></p><p class="MsoNormal"><i>В Естонії:</i></p><ul><li>Товари та послуги з вартістю  від 60 000 ЄВРО до 144 000 ЄВРО;</li><li>Роботи з вартістю  від 150 000 ЄВРО до 5 548 000 ЄВРО;</li></ul><p class="MsoNormal"><i>У Латвії </i></p><ul><li>Товари та послуги з вартістю  від 42 000 ЄВРО до 144 000 ЄВРО;</li><li>Роботи з вартістю  від 170 000 ЄВРО до 5 548 000 ЄВРО;</li></ul><p class="MsoNormal"> <i>У Литві</i></p><ul><li>Товари та послуги з вартістю  від 58 000 ЄВРО до 144 000 ЄВРО;</li><li>Роботи з вартістю  від 145 000 ЄВРО до 5 548 000 ЄВРО.</li></ul><h2><b>Де шукати тендери в країнах Балтії та як подати тендерну пропозицію</b></h2><p class="MsoNormal">Усі процедури закупівлі (а також концесійні конкурси) всіх замовників країн Балтії публікуються на національних Порталах/Системах закупівель відповідною національною мовою, а саме:</p><p class="MsoNormal"><i><b>Естонія</b></i><i> -</i> Національний Реєстр Закупівель (<a href="http://www.riigihanked.riik.ee/">www.riigihanked.riik.ee</a>) під управлінням Естонського Міністерства Фінансів (яке є також місцевим органом регулювання закупівель, <a href="https://www.rahandusministeerium.ee/">https://www.rahandusministeerium.ee/</a>).</p><p class="MsoNormal"><i><b>Латвія</b></i><i> </i>- Латвійська система е-закупівель (<a href="http://www.eis.gov.lv/">www.eis.gov.lv/</a>) під управлінням Державного Агентства Регіонального Розвитку Латвії.</p><p class="MsoNormal"><i><b>Литва</b> </i><i>- </i>Центральний портал публічних закупівель (<a href="https://cvpp.eviesiejipirkimai.lt/">www:cvpp.eviesiejipirkimai.lt/</a>) під управлінням Офісу Публічних Закупівель Литви.</p><p class="MsoNormal">У випадку значень, що перевищують пороги ЄС, повідомлення також публікуються в Електронному журналі тендерних оголошень ЄС<a href="file:///C:/Users/l.kulyk/Downloads/GPA%20guide_Baltic_UKR_final%20(1).docx#_ftn1" name="_ftnref1" title="">[1]</a> (Tenders Electronic Daily - <b>TED</b>) англійською мовою.</p><p class="MsoNormal"><a name="n34"></a>Для участі та подання тендерних пропозицій будь-який економічний оператор (місцевий чи закордонний) повинен бути зареєстрованим у відповідній національній системі, користування кожною з яких є безкоштовним для всіх (і для замовників, і для учасників).</p><p class="MsoNormal">Розглянемо як саме працювати у кожній з національних електронних систем країн Балтії, де є також частково англомовний інтерфейс.</p><h2><b>Естонія - Національний Реєстр Закупівель </b><b>(</b><a href="http://www.riigihanked.riik.ee/"><b>www.riigihanked.riik.ee</b></a><b>)</b></h2><p class="MsoNormal"><b></b></p><p class="MsoNormal">Реєстрація та подальша робота в Реєстрі є досить простою та спочатку вимагає декількох кроків:</p><p class="MsoNormal">1) Перейдіть на сторінку <a href="https://riigihanked.riik.ee/"><b>https://riigihanked.riik.ee/</b></a><b>,</b> натисніть “Login” у верхній панелі інструментів праворуч. Якщо ви новий користувач, то натисніть «Registеr» (Реєструватись) у нижній частині сторінки. Для іноземних учасників необхідно обрати опцію “Username and Password” (ім’я користувача та пароль).</p><p class="MsoNormal">2) Після натискання «Registеr»  система перейде до наступної сторінки з реєстраційною формою базових питань для реєстрації (країна реєстрації, назва, телефони тощо) та важливим питанням про власне ім’я користувача для подальшого входу в систему. Після заповнення відповідями цих питань і натискання зеленої кнопки “Save” у правому верхньому кутку система запитає придумати та ввести власний пароль доступу та потім відразу його підтвердити. Після цього система надішле посилання на активацію на електронну адресу вказану під час заповнення реєстраційної форми.     </p><p>Натискаючи на надіслане на електронну пошту посилання активації, новий користувач переходить на початкову сторінку реєстра, де повинен ввести своє ім’я користувача і свій пароль в опції «Username and Password» (ім’я користувача та   пароль), що дозволить зайти в систему з повним доступом для вільного пошуку тендерів.</p><p class="MsoListParagraph">3) Для можливості користування всім функціоналом і, насамперед, для подання пропозицій необхідно обрати іконку “My Profile” (Мій Профіль) шляхом натискання на своє ім’я користувача (видиме у правому верхньому куті після коректного входу) та тоді обрати тип реєстрації з огляду на тип користувача (в нашому випадку це “New tenderer” (Новий учасник) для фірм або “New self-employed entrepreneur registration” (Новий підприємець) для приватних підприємців.</p><p class="MsoNormal">4) Наступний крок – заповнення обов’язкових полей згідно обраного типу користувача, що завершується натисканням іконки “Save”.</p><p class="MsoNormal">Вже після кроку 3 є можливість у користувача бачити всі тендерні оголошення повністю та завантажувати тендерні документації, проте подання пропозиції стає можливим лише після завершення кроку 5.</p><p class="MsoNormal">Для подання пропозиції на конкретний тендер зареєстрований користувач повинен обрати відповідний тендер та зареєструвати себе у ньому на сторінці такого обраного тендера, що дозволить подати тендерну пропозицію.</p><h2><b>Латвія -  Латвійська система е-закупівель/СЕЗ  </b><b>(</b><a href="http://www.eis.gov.lv/"><b>www.eis.gov.lv/</b></a><b>)</b></h2><p class="MsoNormal"><b></b></p><p class="MsoNormal">Система має 4 підсистеми - "<i>електронні замовлення</i>" (застосовується для певних товарів та послуг у рамках укладених рамкових угод), "<i>електронні аукціони</i>" (застосовується для дрібних контрактів та міні-тендерів у рамках укладених рамкових угод), "<i>електронні сертифікати</i>" (підсистема, яка автоматично збирає інформацію, наявну в державних латвійських регістрах, про учасників торгів, зареєстрованих у Латвії з метою вивчення критеріїв щодо підстав для виключення) та "<i>електронні торги</i>" як основна підсистема тендерів.</p><p class="MsoNormal">Основна інформація про закупівлі, опубліковані в системі, доступна кожному користувачеві без реєстрації. Але для того, щоб переглянути детальну інформацію про закупівлі та створити та подати пропозицію, необхідно зареєструватися в СЕЗ.</p><p class="MsoNormal">На відміну від Естонії, реєстрація в латвійському СЕЗ є більш складною та формальною.</p><p class="MsoNormal">Для реєстрації в системі постачальник повинен заповнити та подати Державному агентству регіонального розвитку такі документи (англійською мовою для іноземних компаній):</p><ul><li>заповнений реєстраційний бланк учасника;</li><li>заповнений бланк дозволу керівника на авторизацію учасника.</li></ul><p class="MsoNormal">Шаблони реєстрації можна знайти на домашній сторінці СЕЗ, у розділі «Інформація про реєстрацію» є секція “Бланки реєстрації”<a href="file:///C:/Users/l.kulyk/Downloads/GPA%20guide_Baltic_UKR_final%20(1).docx#_ftn1" name="_ftnref1" title="">[1]</a>. </p>Заповнені шаблони потім надсилаються до Державного агентства регіонального розвитку (далі - ДАРР). Можна надсилати в паперовому або електронному вигляді із захищеним цифровим підписом, надіславши електронний документ на електронну адресу: <a href="mailto:pasts@vraa.gov.lv">pasts@vraa.gov.lv</a>. Якщо бланки реєстрації заповнені без помилок, постачальник реєструється протягом трьох робочих днів.<p class="MsoNormal"></p><p class="MsoNormal">Отримавши реєстраційні документи, відповідальні особи ДАРР реєструють організацію як учасника системи EPS та створюють користувача з призначеним адміністратором статусом Постачальника. Вказаний у реєстраційних заявах адміністратор Постачальника отримує електронний лист із даними про доступ до системи - ім'ям користувача, паролем та кодовою карткою. Усі ці дані повинні бути використані для першого входу в систему після завершення реєстрації. Після першої реєстрації в системі користувачеві пропонується створити новий пароль.</p><p class="MsoNormal">Для подання тендерної пропозиції перше, що потрібно зробити - це пошук відповідного тендеру з використанням різних фільтрів у системі. Вибравши цікавий тендер, необхідно зареєструватись у ньому  як постачальник, що зацікавлений  в цій закупівлі, що дозволить отримувати відповідну інформацію про закупівлю (наприклад, у разі внесення змін в документацію, отримувати повідомлення електронною поштою із посиланням на внесені зміни).</p><p class="MsoNormal">Тендерну пропозицію можна підготувати за двома способами:</p><p class="MsoListParagraph">1) всередині системи -- простий, зручний для користувача спосіб підготовки тендерних пропозицій шляхом заповнення форми шаблону відповідно до вимог замовника.</p><p class="MsoListParagraph">2) Поза системою - складний процес, що вимагає технічного знання форм PDF.</p><p class="MsoNormal">У будь-якому випадку також можна додавати файли, якщо цього вимагає замовник (наприклад, якусь технічну документацію).</p><p class="MsoNormal">Після введення даних пропозиції (заповнюються всі форми і додаються всі файли, які вимагаються замовником) можна розпочинати процес подання пропозицій. Після введення даних статус пропозиції  змінюється на " <i>Project</i> " (проект).</p><p class="MsoNormal">Потім відбуваються такі дії:</p><ul><li>Перевірка пропозиції  (після завершення статусу буде змінено на <i>“Checked” (</i>"Перевірено")).</li><li>Ініціація підписання пропозиції (після її завершення статус змінюється на <i>“Initiated Signing” («</i>Ініційоване підписання»)).</li><li>Підписання (після завершення стан змінюється на <i>Signed</i>” ("Підписано")).</li><li>Подання (після завершення статус змінюється на <i>Submitted</i>” ("Подано")).</li></ul><p class="MsoNormal">Пропозиція  вважається поданою, коли в результаті послідовних дій, здійснених у системі, її статус змінено  на «Подано».</p><p class="MsoNormal">Пропозицію  можна підписати таким чином:</p><p class="MsoListParagraph">- або за підписом самої системи;</p><p class="MsoListParagraph"></p><div><div id="ftn1"><p class="MsoListParagraph">- або за цифровим підписом у системі або поза системою (тоді пропозиція повинна бути завантажена в систему).</p><p class="MsoNormal">Тип підпису залежить від вимоги замовника щодо кожного конкретного тендеру та стає очевидним для учасників тендеру, коли статус торгів буде змінено на "Проект". Цифровий підпис в системі зазвичай базується на латвійському мобільному ідентифікаторі (Mobile ID), а електронний цифровий підпис поза системою базується на цифрових підписах, визнаних в ЄС.</p><p class="MsoNormal">Алгоритм для учасників тендеру англійською мовою описаний у спеціальній відео- та текстовій презентації. Також є досить детальний посібник для користувачів (як замовники, так і учасників тендерів) латвійською та  англійською мовами.<b> </b></p><h2><b>Литва - Центральний портал публічних закупівель/ЦППЗ </b><b>(</b><a href="https://cvpp.eviesiejipirkimai.lt/"><b>www:cvpp.eviesiejipirkimai.lt/</b></a><b>)</b></h2><p class="MsoNormal"><b></b></p><p class="MsoNormal">Реєстрація на порталі є простішою аніж у Латвійській системі (СЕЗ), проте і не такою простою як в Естонії. Процес реєстрації передбачає електронне заповнення (безпосередньо в системі) досить детальної спеціальної реєстраційної форми для іноземних учасників, що доступна англійською мовою<a href="file:///C:/Users/l.kulyk/Downloads/GPA%20guide_Baltic_UKR_final%20(1).docx#_ftn3" name="_ftnref3" title="">[3]</a>.</p><p class="MsoNormal">Перша зареєстрована особа автоматично стає "адміністратором" компанії та має можливість створювати інших користувачів компанії, включаючи користувачів з правами адміністратора. Не має обмеження кількості користувачів, яких можна визначити в компанії  постачальника.</p><p class="MsoNormal">Після заповнення форми необхідно ввести ім’я користувача та пароль (2 рази для підтвердження) та натиснути кнопку «Зберегти». Потім для того, щоб розпочати роботу в системі, новий користувач повинен перейти на сторінку <a href="https://pirkimai.eviesiejipirkimai.lt/">https://pirkimai.eviesiejipirkimai.lt</a> , вибрати мову (литовська чи англійська мова), ввести власне ім’я користувача та власний пароль, а потім натиснути піктограму/кнопку “Prisijungti”. Після цього користувач отримає доступ до власної домашньої сторінки з різними меню/послугами (пошук тендерних повідомлень, профіль користувача, проекти документів, завдання тощо).</p><p class="MsoNormal">Важливо знати, що усі інтерфейси ЦППЗ є доступними англійською мовою.</p><p class="MsoNormal">Пошук сповіщень ґрунтується на назві предмета закупівлі та/або коді CPV та/або типові процедури закупівлі. Коли буде знайдено повідомлення про зацікавлений тендер, користувач повинен зареєструвати свою зацікавленість в участі, що дозволяє отримувати всі повідомлення щодо даної тендеру та подавати тендерну пропозицію. Наступне вікно - це вікно подання пропозиції, що передбачає заповнення її параметрів (ціна тощо) та завантаження необхідних документів.</p><p class="MsoNormal">Наступним етапом є підписання пропозиції, що може бути реалізовано двома способами:</p><ul><li>Захищений  підпис самої системи,</li><li>Використання послуг підпису литовських мобільних ідентифікаторів (Mobile ID).</li></ul><p class="MsoNormal">Для іноземних учасників торгів рекомендується використовувати захищений підпис системи на основі веб-сервісу SIGNA (можна безкоштовно завантажити з системи), розробленого для створення та перевірки підписаних електронних документів, формат яких відповідає Специфікації ADOC-V1.0 Електронного документа Підписаного Електронним підписом, що затверджено Департаментом архівів при Уряді Литовської Республіки.</p><p class="MsoNormal">Приклади із візуалізованим посібником із використання порталу доступні за цим посиланням:</p><p class="MsoNormal"><a href="http://vpt.lrv.lt/uploads/vpt/documents/files/How_to_develop_and_submit_tender__proposal__using_CVP_IS(4).pdf">http://vpt.lrv.lt/uploads/vpt/documents/files/How_to_develop_and_submit_tender__proposal__using_CVP_IS(4).pdf</a>.</p><h2>Детальна презентація щодо участі в закупівлях країн Балтії</h2></div></div>
+                            </div>
+
+                            <div class="body__pdf">
+                            <div class="js__pdf-container">
+                    <div class="js__pdf-content">
+
+                    </div>
+
+                    <div class="js_pdf-source" style="display: none">
+                        <object data="/upload/files/main/1390/539/gpa-guide-baltic-ukr-final.pdf" type="application/pdf" width="100%" height="100%" style="height: 600px;">
+                            <embed src="/upload/files/main/1390/539/gpa-guide-baltic-ukr-final.pdf" type="application/pdf">
+                            <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/upload/files/main/1390/539/gpa-guide-baltic-ukr-final.pdf">Download PDF</a>.</p>
+                        </object>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="body__file">
+            <a class="button" href="/upload/files/main/1390/539/gpa-guide-baltic-ukr-final.pdf" target="_blank">
+                <i class="fas fa-download"></i> Відкрити
+            </a>
+        </div>
+    
+                            
+                            <div class="comments row">
+                                <div class="article__social">
+    <div class="rating-controls" data-post-id="1390" role="group">
+        <div class="rating-controls__btn-group">
+            <span class="rating-controls__title">Сподобалась стаття?</span>
+
+            <button class="rating-controls__btn rating-controls__btn_like">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+            </button>
+
+            <button class="rating-controls__btn rating-controls__btn_dislike">
+                <i class="fa fa-thumbs-down" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="rating-controls__btn-group rating-controls__btn-group_none">
+            <span class="rating-controls__title">
+                Сподобалось:
+                <b class="rating-controls__amount" id="likes">
+                    1
+                </b>
+            </span>
+                <span class="rating-controls__title rating-controls__title_ml">
+                Не сподобалось:
+                <b class="rating-controls__amount" id="dislikes">
+                    0
+                </b>
+            </span>
+        </div>
+    </div>
+
+    <div class="rating-controls">
+        <div class="rating-controls__title">Поділитися:</div>
+
+        <social-sharing url="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-inozemnih-tenderah-krajin-baltiji" inline-template>
+            <div  class="block-share__links">
+                <network network="facebook">
+                    <div class="block-share__link m__fb"><i class="fab fa-facebook-f"></i></div>
+                </network>
+                <network network="twitter">
+                    <div class="block-share__link m__twitter"><i class="fab fa-twitter"></i></div>
+                </network>
+                <network network="telegram">
+                    <div class="block-share__link m__telegram"><i class="fab fa-telegram-plane"></i></div>
+                </network>
+            </div>
+        </social-sharing>
+    </div>
+</div>
+
+<div class="block_comments">
+    <div class="coments_title_wrapper">
+        <h3 class="commenst_title">Коментарі</h3>
+        <button class="add_comment button button_blue">Залишити коментар</button>
+    </div>
+    <div class="comments_wrapper">
+                    <h4>До цієї статті ще немає коментарів. Станьте першим.</h4>
+            </div>
+
+</div>
+
+<div class="modal reviev_modal">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="review_form_wrapper">
+                <form id="review_form">
+
+                    <div class="form-group">
+                        <input class="forms-back_input form-control" name="name" id="name" type="text" placeholder="Ваше ім`я">
+                        <input class="forms-back_input form-control" name="email" id="email" type="text" placeholder="Ваш email">
+                        <input type="hidden" name="parent_id" value="0">
+                        <input type="hidden" name="post_id" value="1390">
+                        <input type="hidden" name="module_name" value="gpa">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="error forms-back_textarea" placeholder="Ваш коментар"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6Le8Qr4ZAAAAAPEneHEfVPgQzaVUf1Hce6ZLYg3b"></div>
+                    </div>
+
+                    <button class="send_review button button_blue">Надіслати коментар</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </article-component>
+
+            </div>
+
+            <aside class="aside__controls article__nav">
+                <acticle-navigation></acticle-navigation>
+            </aside>
+        </main>
+
+        <div class="page-block block-start article__subscribe">
+            <div class="container">
+                <div id="block-subscribe" class="block-subscribe block-subscribe-v2">
+    <div class="block-subscribe__wrapper">
+        <div class="block-subscribe__title">Актуальні новини, статті інфобоксу, роз&#039;яснення</div>
+        <form id="email-subscribe" class="form-subscribe" action="" method="get">
+            <div class="form-subscribe__input_wrapper">
+                <input placeholder="E-mail" class="form-subscribe__input" data-rule-required="true" data-msg-required="Введіть ваш email" data-rule-email="true" data-msg-email="Введіть дійсний email" name="email" type="text" value="">
+            </div>
+
+            <button class="form-subscribe__submit button" type='submit'>ПІДПИСАТИСЯ</button>
+        </form>
+    </div>
+</div>
+            </div>
+        </div>
+
+    </section>
+</main>
+<footer class="footer">
+        <div class="container">
+            <div class="footer__bl">
+                <div class="footer__links">
+                    <a class="footer__link" href="https://infobox.prozorro.org/faq" target="_blank">FAQ</a>
+                    <a class="footer__link" href="https://specifications.prozorro.org/specifications" target="_blank">Специфікації</a>
+                    <a class="footer__link" href="http://edubox.prozorro.org/forum" target="_blank">Форум</a>
+                    <a class="footer__link" href="https://dozorro.org/tools" target="_blank">Інструменти моніторингу</a>
+                    <a class="footer__link" href="https://infobox.prozorro.org/courses">Онлайн курси</a>
+                    <p class="footer__copyright">Інфобокс Prozorro(с)</p>
+                </div>
+                <div class="footer__links">
+                    <a class="footer__link" href="https://prozorro.gov.ua/" target="_blank">Головна Prozorro</a>
+                    <a class="footer__link" href="https://prozorro.gov.ua/majdanchiki-prozorro" target="_blank">Майданчики</a>
+                    <a class="footer__link" href="https://dozorro.org/" target="_blank">Dozorro</a>
+                    <a class="footer__link" href="http://www.me.gov.ua/?lang=uk-UA" target="_blank">МЕРТУ</a>
+                    <a class="footer__link" href="http://www.amc.gov.ua/amku/control/main/uk/index" target="_blank">АМКУ</a>
+                </div>
+            </div>
+            <div class="footer__bl">
+                <div class="footer__contact">
+                    <p class="main__p">Контакти</p>
+                    <p class="contact__phone">тел. (044) 281-42-87</p>
+                    <p class="contact__sh">пн-чт 8.30 - 17.15 <br> пт 8.30 - 16.00</p>
+                    <p class="contact__email">feedback@prozorro.ua</p>
+                </div>
+                <div class="footer__social">
+                    <p class="main__p">Слідкуйте за нами</p>
+                    <div class="social__icons">
+                        <a class="social__link" href="https://www.facebook.com/prozorro.gov.ua" target="_blank"><img src="/images/fb.svg"></a>
+                        <a class="social__link" href="https://www.youtube.com/channel/UCI-2twjrz8C4dYiQXDGZf5g" target="_blank"><img src="/images/yt.svg"></a>
+                        <a class="social__link" href="https://twitter.com/the_prozorro" target="_blank"><img src="/images/tv.svg"></a>
+                        <a class="social__link" href="https://www.instagram.com/prozorro_team/" target="_blank"><img src="/images/inst.svg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://embed.small.chat/T04QGHNFQGFJRS25CY.js" async></script>
+
+<div class="modal m-subscription">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+
+            <div class="form-content">
+                <div class="form-content-first">
+                    <div class="modal__title">Яку саме інформацію ви бажаєте отримувати?</div>
+                    <div class="modal__description">Ми прагнемо доставляти лише ті повідомлення, які ви хочете отримувати. Якщо вас цікавлять повідомлення про щось нове на інфобоксі, залиште вашу адресу електроної пошти тут.</div>
+
+                    <form method="POST" action="https://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-inozemnih-tenderah-krajin-baltiji" accept-charset="UTF-8" role="form" class="form-help form_ajax" data-url="/api/subscribe" data-renew="1"><input name="_token" type="hidden" value="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+
+                    <input type="hidden" name="email" class="input_email">
+
+                    <div class="modal__options">
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="customer" type="checkbox" checked value="1">
+                                <div class="blue">для замовників</div>
+                                <div>Отримувати поради та актуальну інформацію для Замовника</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="users" type="checkbox" checked value="1">
+                                <div class="green">для постачальників</div>
+                                <div>Отримувати повідомлення про нові статті та актуальну інформацію для постачальників</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="press" type="checkbox" checked value="1">
+                                <div class="orange">для журналістів</div>
+                                <div>Отримувати повідомлення про актуальні можливості системи з моніторінгу публічних закупівель</div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="form-subscribe__submit button button_green solid" type='submit'>ПІДПИСАТИСЯ</button>
+
+                    </form>
+                </div>
+
+                <div class="form-content-last">
+                    <div class="message">
+                        Дякуємо за підписку на розсилку від Прозорро
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal-window_image-zoom">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="modal-window__image-zoom">
+                <img class="modal-window_image" src="">
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="/js/app.js?id=dcc7a4755264c6411045"></script>
+</body>
+</html>

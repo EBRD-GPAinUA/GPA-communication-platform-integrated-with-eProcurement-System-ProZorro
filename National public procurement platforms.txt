@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ua" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ua" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ua"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="csrf-token" content="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W297TCW');</script>
+    <!-- End Google Tag Manager -->
+
+    <title>Національні платформи публічних закупівель країн-членів СОТ</title>
+        <meta name="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+        
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="Національні платформи публічних закупівель країн-членів СОТ">
+        <meta itemprop="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta itemprop="image" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://twitter.com/the_prozorro">
+        <meta name="twitter:title" content="Національні платформи публічних закупівель країн-членів СОТ">
+        <meta name="twitter:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:image:src" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="Національні платформи публічних закупівель країн-членів СОТ" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://infobox.prozorro.org/gpa/nacionalni-platformi-publichnih-zakupivel-krajin-chleniv-sot" />
+        <meta property="og:image" content="https://infobox.prozorro.org/images/icons/default.png" />
+        <meta property="og:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+                        <meta property="article:published_time" content="2020-11-25 00:00:00" />
+        <meta property="article:section" content="Контент" />
+                                
+<!-- automatically generated meta tags -->
+
+
+    
+    <link rel="stylesheet" href="/css/app.css?id=8661cee750b833c67074">
+    <link rel="stylesheet" href="/css/vendor.css?id=e288baa35b544989d39a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73544428-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73544428-6');
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?hl=uk" async defer></script>
+
+</head>
+
+<body class=mt-header>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W297TCW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noclass="block-searchscript) -->
+<header class="header">
+        <div class="container">
+            <div class="navigation-bar">
+
+            <a href='/' class="navigation-bar-logo-panel">
+                <img src="/images/logo.png" class="navigation-bar-logo-panel__image">
+                <div class="navigation-bar-logo-panel__title">
+                    <span>PROZORRO <span>інфобокс</span></span>
+                    <span class="navigation-bar-logo-panel__title-desc">центр знань про публічні закупівлі</span>
+                </div>
+            </a>
+
+            <div class="navigation-bar-menu">
+                <a href="https://infobox.prozorro.org/articles" class="navigation-bar-menu__link ">Все про закупівлі</a>
+                <a href="https://infobox.prozorro.org/updates" class="navigation-bar-menu__link ">Оновлення</a>
+                <a href="https://infobox.prozorro.org/gpa" class="navigation-bar-menu__link active">Міжнародні тендери GPA</a>
+                <a href="https://infobox-forum.prozorro.org" class="navigation-bar-menu__link active">Питання до спільноти</a>
+                <a href="https://infobox.prozorro.org/news-mert" class="navigation-bar-menu__link ">Законодавство</a>
+                <a href="https://infobox.prozorro.org/courses" class="navigation-bar-menu__link ">Онлайн курси</a>
+                <a href="https://infobox.prozorro.org/newlaw-zamovnykam" class="navigation-bar-menu__link ">Новий закон</a>
+            </div>
+
+                <a class="navigaton-bar-button navigaton-bar-button_x">
+                    <div class="navigaton-bar-button__icon"></div>
+                </a>
+            </div>
+        </div>
+    </header>
+
+<main id="app" class=content>
+    
+    <section class="p-article m-news">
+
+        <div class="page-block">
+            <subscribe-header></subscribe-header>
+        </div>
+
+        <main class="container-v2">
+            <div class="content">
+                <items-component type="news" v-bind:initial-show="false"></items-component>
+
+                <article-component inline-template>
+                    <div class="block-article">
+
+                        <div class="article__body">
+
+                            <div class="body__head">
+                                <div class="head__image">
+                                </div>
+                                <div class="head__info">
+                                    <h1 class="info__title">
+                                        Національні платформи публічних закупівель країн-членів СОТ
+                                    </h1>
+                                    <div class="info__subtitle">
+                                                                                    <span class="subtitle__author">Лілія Кулик</span>
+                                                                                <span class="subtitle__date">25.11.2020</span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                                                            <div class="body__caption">
+                                    Де шукати тендери країн-членів СОТ
+                                </div>
+                            
+                            <div class="body__text">
+                                <p></p><div style="text-align: center;"><b style="font-size: 1rem;"><span style="font-size: 18px;">Національні платформи публічних закупівель&nbsp;</span></b></div><div style="text-align: center;"><b>Країни-члени угоди СОТ про державні закупівлі (WTO GPA Members)</b></div><p></p><table border="0" cellpadding="0" cellspacing="0" width="1018" style="width: 763pt;"> <colgroup><col width="35" style="mso-width-source:userset;mso-width-alt:1251;width:26pt"> <col width="239" style="mso-width-source:userset;mso-width-alt:8504;width:179pt"> <col width="385" style="mso-width-source:userset;mso-width-alt:13681;width:289pt"> <col width="359" style="mso-width-source:userset;mso-width-alt:12771;width:269pt"> </colgroup><tbody><tr height="19" style="height:14.4pt">  <td height="19" class="xl68" width="35" style="height:14.4pt;width:26pt">#</td>  <td class="xl66" width="239" style="width: 179pt;">Сторони-учасниці</td>  <td class="xl66" width="385" style="width: 289pt;">Платформи</td>  <td class="xl66" width="359" style="width: 269pt;">URL</td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">1</td>  <td class="xl70" width="239" style="width: 179pt;">Вірменія</td>  <td class="xl65" width="385" style="width: 289pt;">ARMEPS</td>  <td class="xl75"><a href="http://www.armeps.am/" target="_blank">http://www.armeps.am/</a></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">2</td>  <td class="xl78" width="239" style="width: 179pt;">Канада</td>  <td class="xl79" width="385" style="width: 289pt;">Buy  and Sell Canada</td>  <td class="xl80"><a href="https://buyandsell.gc.ca" target="_blank">https://buyandsell.gc.ca</a>/</td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">3</td>  <td class="xl70" width="239" style="width: 179pt;">Європейський  Союз</td>  <td class="xl65" width="385" style="width: 289pt;">TED  (Tenders Electronic Daily)&nbsp;</td>  <td class="xl75"><p><a href="http://ted.europa.eu/" target="_blank">http://ted.europa.eu/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td rowspan="3" height="57" class="xl77" width="35" style="height: 43.2pt; width: 26pt;">4</td>  <td rowspan="3" class="xl82" width="239" style="width: 179pt;">Австрія</td>  <td rowspan="3" class="xl85" width="385" style="width: 289pt;">Federal  Procurement Agency (FPA), <br>    ASFINAG , ÖBB Holding AG</td>  <td class="xl80"><p><a href="http://www.bbg.gv.at/" target="_blank">http://www.bbg.gv.at/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl80" style="height: 14.4pt;"><p><a href="https://www.auftrag.at/" target="_blank">https://www.auftrag.at/</a><br></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl81" width="359" style="height: 14.4pt; width: 269pt;"><p><a href="https://www.provia.at/" target="_blank">https://www.provia.at/</a></p></td> </tr> <tr height="55" style="height:41.4pt">  <td height="55" class="xl69" width="35" style="height: 41.4pt; width: 26pt;">5</td>  <td class="xl71" width="239" style="width: 179pt;">Бельгія</td>  <td class="xl65" width="385" style="width: 289pt;">Publicprocurement.be</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.publicprocurement.be/" target="_blank">http://www.publicprocurement.be/</a></p><p>    <a href="https://mydemo.publicprocurement.be/" target="_blank">https://mydemo.publicprocurement.be/</a></p><p>    <a href="https://www.enabel.be/content/btc-tenders/" target="_blank">https://www.enabel.be/content/btc-tenders/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td rowspan="2" height="74" class="xl77" width="35" style="height: 55.2pt; width: 26pt;">6</td>  <td rowspan="2" class="xl82" width="239" style="width: 179pt;">Данія</td>  <td class="xl79" width="385" style="width: 289pt;">Statens  og Kommunernes Indkøbs Service A/S (SKI or in English: National Procurement  Ltd. Denmark)&nbsp;</td>  <td class="xl80"><p><a href="http://www.ski.dk/" target="_blank">http://www.ski.dk/</a></p><p>    <br>    <br>    </p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl79" width="385" style="height: 27.6pt; width: 289pt;">This platform is part of the DIGIWHIST project  http://digiwhist.eu/</td>  <td class="xl80"><p><a href="https://opentender.eu/dk/" target="_blank">https://opentender.eu/dk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td rowspan="2" height="74" class="xl69" width="35" style="height: 55.8pt; width: 26pt;">7</td>  <td rowspan="2" class="xl71" width="239" style="width: 179pt;">Фінляндія</td>  <td class="xl65" width="385" style="width: 289pt;">Hensel</td>  <td class="xl75"><p><a href="http://www.hansel.fi" target="_blank">www.hansel.fi</a></p></td> </tr> <tr height="55" style="height:41.4pt">  <td height="55" class="xl65" width="385" style="height: 41.4pt; width: 289pt;">&nbsp;</td>  <td class="xl74" width="359" style="width: 269pt;"><p><a href="https://www.hankintailmoitukset.fi/" target="_blank">https://www.hankintailmoitukset.fi/</a></p><p>    <a href="https://tarjouspalvelu.fi/" target="_blank">https://tarjouspalvelu.fi/</a></p><p>    <a href="https://hanki.tarjouspalvelu.fi/" target="_blank">https://hanki.tarjouspalvelu.fi/</a></p></td> </tr> <tr height="38" style="height:28.2pt">  <td height="38" class="xl77" width="35" style="height: 28.2pt; width: 26pt;">8</td>  <td class="xl82" width="239" style="width: 179pt;">Франція</td>  <td class="xl79" width="385" style="width: 289pt;">Plate-forme  des Achats de l'Etat</td>  <td class="xl83" width="359" style="width: 269pt;"><p><a href="https://www.marches-publics.gouv.fr/" target="_blank">https://www.marches-publics.gouv.fr/</a></p><p>    <a href="https://www.marches-publics.info/" target="_blank">https://www.marches-publics.info/</a></p></td> </tr> <tr height="166" style="height:124.8pt">  <td height="166" class="xl69" width="35" style="height: 124.8pt; width: 26pt;">9</td>  <td class="xl71" width="239" style="width: 179pt;">Німеччина</td>  <td class="xl65" width="385" style="width: 289pt;">Organisation  des Beschaffungsamtes</td>  <td class="xl76" width="359" style="width: 269pt;"><p><a href="http://www.bescha.bund.de/" target="_blank">http://www.bescha.bund.de/</a></p><p>    <a href="https://vergabe.hilgmbh.de/" target="_blank">https://vergabe.hilgmbh.de/</a></p><p>    <a href="https://vergabeplattform.bwi.de/" target="_blank">https://vergabeplattform.bwi.de/</a></p><p>    <a href="https://www.subreport-elvis.de/" target="_blank">https://www.subreport-elvis.de/</a></p><p>    <a href="https://www.dtvp.de/" target="_blank">https://www.dtvp.de/</a></p><p>    <a href="https://www.evergabe-online.de/" target="_blank">https://www.evergabe-online.de/</a></p><p>    <a href="https://vergabekooperation.berlin/" target="_blank">https://vergabekooperation.berlin/</a></p><p>    ...<br>    </p></td> </tr> <tr height="56" style="height:42.0pt">  <td rowspan="2" height="75" class="xl77" width="35" style="height: 56.4pt; width: 26pt;">10</td>  <td rowspan="2" class="xl82" width="239" style="width: 179pt;">Греція</td>  <td class="xl79" width="385" style="width: 289pt;">ESIDIS  The National Electronic Public Procurement System (ESIDIS)</td>  <td class="xl83" width="359" style="width: 269pt;"><p><a href="http://www.eprocurement.gov.gr/" target="_blank">http://www.eprocurement.gov.gr/</a></p><p>    <a href="http://www.promitheus.gov.gr/" target="_blank">http://www.promitheus.gov.gr/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl79" width="385" style="height: 14.4pt; width: 289pt;">&nbsp;</td>  <td class="xl80"><p><a href="https://www.marketsite.gr/" target="_blank">https://www.marketsite.gr/</a></p></td> </tr> <tr height="129" style="height:96.6pt">  <td height="129" class="xl69" width="35" style="height: 96.6pt; width: 26pt;">11</td>  <td class="xl71" width="239" style="width: 179pt;">Ірландія</td>  <td class="xl65" width="385" style="width: 289pt;">Office  of Government Procureme<br>    eTenders<br>    eSourcing NI</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.procurement.ie/" target="_blank">http://www.procurement.ie/</a></p><p>    <a href="https://www.etenders.gov.ie/" target="_blank">https://www.etenders.gov.ie/</a></p><p>    <a href="https://e-sourcingni.bravosolution.co.uk/" target="_blank">https://e-sourcingni.bravosolution.co.uk/</a></p><p>    <a href="https://etenderwales.bravosolution.co.uk/" target="_blank">https://etenderwales.bravosolution.co.uk/</a></p><p>    <a href="https://irl.eu-supply.com/" target="_blank">https://irl.eu-supply.com/</a></p><p>    <a href="http://www.epa.ie/" target="_blank">http://www.epa.ie/</a></p></td> </tr> <tr height="129" style="height:96.6pt">  <td height="129" class="xl77" width="35" style="height: 96.6pt; width: 26pt;">12</td>  <td class="xl82" width="239" style="width: 179pt;">Італія</td>  <td class="xl79" width="385" style="width: 289pt;">Il  Programma per la razionalizzazione degli Acquisti (The Program for the  Rationalization of Public Authority Purchases</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://www.acquistinretepa.it/" target="_blank">https://www.acquistinretepa.it/</a></p><p>    <a href="https://www.consip.it/" target="_blank">https://www.consip.it/</a></p><p>    <a href="https://portaleacquisti.gruppoiren.it/" target="_blank">https://portaleacquisti.gruppoiren.it/</a></p><p>    <a href="https://intercenter.regione.emilia-romagna.it/" target="_blank">https://intercenter.regione.emilia-romagna.it/</a></p><p>    <a href="https://www.ariaspa.it/" target="_blank">https://www.ariaspa.it/</a></p><p>    <a href="https://albi.adspmaredisardegna.it/" target="_blank">https://albi.adspmaredisardegna.it/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">13</td>  <td class="xl71" width="239" style="width: 179pt;">Люксембург</td>  <td class="xl65" width="385" style="width: 289pt;">Portail  des Marches Publics</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.marches.public.lu/" target="_blank">http://www.marches.public.lu/</a></p><p>    <a href="https://pmp.b2g.etat.lu/" target="_blank">https://pmp.b2g.etat.lu/</a></p></td> </tr> <tr height="74" style="height:55.2pt">  <td height="74" class="xl77" width="35" style="height: 55.2pt; width: 26pt;">14</td>  <td class="xl82" width="239" style="width: 179pt;">Нідерланди</td>  <td class="xl79" width="385" style="width: 289pt;">TenderNed</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://www.tenderned.nl" target="_blank">https://www.tenderned.nl</a></p><p>    <a href="https://portal.negometrix.com/" target="_blank">https://portal.negometrix.com/</a></p><p>    <a href="https://eu.eu-supply.com/" target="_blank">https://eu.eu-supply.com/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">15</td>  <td class="xl71" width="239" style="width: 179pt;">Португалія</td>  <td class="xl65" width="385" style="width: 289pt;">BASE</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.base.gov.pt/" target="_blank">http://www.base.gov.pt/</a></p><p>    <a href="https://www.acingov.pt/" target="_blank">https://www.acingov.pt/</a></p></td> </tr> <tr height="55" style="height:41.4pt">  <td height="55" class="xl77" width="35" style="height: 41.4pt; width: 26pt;">16</td>  <td class="xl82" width="239" style="width: 179pt;">Іспанія</td>  <td class="xl79" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://contrataciondelestado.es/" target="_blank">https://contrataciondelestado.es/</a></p><p>    <a href="https://transparencia.gob.es/" target="_blank">https://transparencia.gob.es/</a></p><p>    <a href="https://www.boe.es/" target="_blank">https://www.boe.es/</a>&nbsp;</p></td> </tr> <tr height="74" style="height:55.2pt">  <td height="74" class="xl69" width="35" style="height: 55.2pt; width: 26pt;">17</td>  <td class="xl71" width="239" style="width: 179pt;">Швеція</td>  <td class="xl65" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="https://tendsign.com/" target="_blank">https://tendsign.com/</a></p><p>    <a href="https://eu.eu-supply.com/" target="_blank">https://eu.eu-supply.com/</a></p><p>    <a href="https://www.kommersannons.se/" target="_blank">https://www.kommersannons.se/</a></p></td> </tr> <tr height="74" style="height:55.2pt">  <td height="74" class="xl77" width="35" style="height: 55.2pt; width: 26pt;">18</td>  <td class="xl82" width="239" style="width: 179pt;">Англія</td>  <td class="xl79" width="385" style="width: 289pt;">gov.uk</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://www.gov.uk/contracts-finder" target="_blank">https://www.gov.uk/contracts-finder</a></p><p>    <a href="https://www.gov.uk/digital-marketplace-sellers" target="_blank">https://www.gov.uk/digital-marketplace-sellers</a></p><p>    <a href="https://www.procure-plus.com/" target="_blank">https://www.procure-plus.com/</a></p><p>    <a href="https://procontract.due-north.com/" target="_blank">https://procontract.due-north.com/</a>&nbsp;</p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">19</td>  <td class="xl71" width="239" style="width: 179pt;">Шотландія</td>  <td class="xl65" width="385" style="width: 289pt;">Public  Cоntracts Scotland</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.publiccontractsscotland.gov.uk/" target="_blank">http://www.publiccontractsscotland.gov.uk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">20</td>  <td class="xl82" width="239" style="width: 179pt;">Уельс</td>  <td class="xl79" width="385" style="width: 289pt;">Sell2Wales</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.sell2wales.gov.uk/" target="_blank">http://www.sell2wales.gov.uk/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">21</td>  <td class="xl71" width="239" style="width: 179pt;">Північна  Ірландія</td>  <td class="xl65" width="385" style="width: 289pt;">eTendersNI</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="https://e-sourcingni.bravosolution.co.uk/" target="_blank">https://e-sourcingni.bravosolution.co.uk/</a></p><p>    <a href="https://etendersni.gov.uk/" target="_blank">https://etendersni.gov.uk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">22</td>  <td class="xl82" width="239" style="width: 179pt;">Республіка  Кіпр</td>  <td class="xl79" width="385" style="width: 289pt;">e-PS</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://www.eprocurement.gov.cy" target="_blank">https://www.eprocurement.gov.cy</a></p></td> </tr> <tr height="110" style="height:82.8pt">  <td height="110" class="xl69" width="35" style="height: 82.8pt; width: 26pt;">23</td>  <td class="xl71" width="239" style="width: 179pt;">Чеська  Республіка</td>  <td class="xl65" width="385" style="width: 289pt;">Vestnik</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="https://www.vestnikverejnychzakazek.cz/" target="_blank">https://www.vestnikverejnychzakazek.cz/</a></p><p>    <a href="http://www.isvz.cz/" target="_blank">http://www.isvz.cz/</a></p><p>    <a href="https://nen.nipez.cz/" target="_blank">https://nen.nipez.cz/</a></p><p>    <a href="https://tenderarena.cz/" target="_blank">https://tenderarena.cz/</a></p><p>    <a href="https://ezak.cz/" target="_blank">https://ezak.cz/</a></p><p>    <a href="https://fen.cz/" target="_blank">https://fen.cz/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">24</td>  <td class="xl82" width="239" style="width: 179pt;">Естонія</td>  <td class="xl79" width="385" style="width: 289pt;">E-procurement  Estonia</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://riigihanked.riik.ee" target="_blank">https://riigihanked.riik.ee</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">25</td>  <td class="xl71" width="239" style="width: 179pt;">Угорщина</td>  <td class="xl65" width="385" style="width: 289pt;">The  Public Procurement Authority&nbsp;</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://kozbeszerzes.hu/" target="_blank">http://kozbeszerzes.hu/</a></p><p>    <a href="https://ekr.gov.hu/" target="_blank">https://ekr.gov.hu/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">26</td>  <td class="xl82" width="239" style="width: 179pt;">Латвія</td>  <td class="xl79" width="385" style="width: 289pt;">Procurement  Monitoring Bureau</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.iub.gov.lv/" target="_blank">http://www.iub.gov.lv/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">27</td>  <td class="xl71" width="239" style="width: 179pt;">Литва</td>  <td class="xl65" width="385" style="width: 289pt;">CVPIS</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.eviesiejipirkimai.lt/" target="_blank">http://www.eviesiejipirkimai.lt/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">28</td>  <td class="xl82" width="239" style="width: 179pt;">Республіка  Молдова</td>  <td class="xl79" width="385" style="width: 289pt;">Mtender</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="https://mtender.gov.md/" target="_blank">https://mtender.gov.md/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">29</td>  <td class="xl71" width="239" style="width: 179pt;">Мальта</td>  <td class="xl65" width="385" style="width: 289pt;">e-PPS</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="https://www.etenders.gov.mt" target="_blank">https://www.etenders.gov.mt</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">30</td>  <td class="xl82" width="239" style="width: 179pt;">Польша</td>  <td class="xl79" width="385" style="width: 289pt;">Urzad  Zamowien Publicznych</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.uzp.gov.pl/" target="_blank">http://www.uzp.gov.pl/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">31</td>  <td class="xl71" width="239" style="width: 179pt;">Словаччина</td>  <td class="xl65" width="385" style="width: 289pt;">Office  For Public Procurment</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="http://www.uvo.gov.sk/" target="_blank">http://www.uvo.gov.sk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">32</td>  <td class="xl82" width="239" style="width: 179pt;">Словенія</td>  <td class="xl79" width="385" style="width: 289pt;">Official  Gazette of the Republic of Slovenia&nbsp;</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.uradni-list.si/" target="_blank">http://www.uradni-list.si/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">33</td>  <td class="xl71" width="239" style="width: 179pt;">Болгарія</td>  <td class="xl65" width="385" style="width: 289pt;">The  Public Procurement Portal</td>  <td class="xl75"><p><a href="https://app.eop.bg/" target="_blank">https://app.eop.bg/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl77" width="35" style="height: 27.6pt; width: 26pt;">34</td>  <td class="xl82" width="239" style="width: 179pt;">Румунія</td>  <td class="xl79" width="385" style="width: 289pt;">Public  Procurment Agency</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.e-licitatie.ro/" target="_blank">http://www.e-licitatie.ro/</a></p><p>    <a href="http://www.anrmap.ro/" target="_blank">http://www.anrmap.ro/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl69" width="35" style="height: 27.6pt; width: 26pt;">35</td>  <td class="xl71" width="239" style="width: 179pt;">Хорватія</td>  <td class="xl65" width="385" style="width: 289pt;">Oglasnik</td>  <td class="xl73" width="359" style="width: 269pt;"><p><a href="https://eojn.nn.hr" target="_blank">https://eojn.nn.hr</a></p><p>    <a href="http://www.javnanabava.hr/" target="_blank">http://www.javnanabava.hr/</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl77" width="35" style="height: 27.6pt; width: 26pt;">36</td>  <td class="xl78" width="239" style="width: 179pt;">Гонконг,  Китай</td>  <td class="xl79" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.gov.hk/" target="_blank">http://www.gov.hk/</a></p><p>    <a href="http://www.gldtender.gov.hk/" target="_blank">http://www.gldtender.gov.hk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">37</td>  <td class="xl70" width="239" style="width: 179pt;">Ісландія</td>  <td class="xl65" width="385" style="width: 289pt;">Utbod</td>  <td class="xl75"><p><a href="http://utbod.lv.is/" target="_blank">http://utbod.lv.is/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">38</td>  <td class="xl78" width="239" style="width: 179pt;">Ізраїль</td>  <td class="xl79" width="385" style="width: 289pt;">Government  Pprocurment Administration</td>  <td class="xl80"><p><a href="https://mr.gov.il/" target="_blank">https://mr.gov.il/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">39</td>  <td class="xl70" width="239" style="width: 179pt;">Японія</td>  <td class="xl65" width="385" style="width: 289pt;">Jetro</td>  <td class="xl75"><p><a href="https://www.jetro.go.jp" target="_blank">https://www.jetro.go.jp</a></p></td> </tr> <tr height="37" style="height:27.6pt">  <td height="37" class="xl77" width="35" style="height: 27.6pt; width: 26pt;">40</td>  <td class="xl78" width="239" style="width: 179pt;">Корея</td>  <td class="xl79" width="385" style="width: 289pt;">Public  eProcurment Service KONEPS</td>  <td class="xl84" width="359" style="width: 269pt;"><p><a href="http://www.koneps.go.kr/" target="_blank">http://www.koneps.go.kr/</a></p><p>    <a href="https://www.pps.go.kr" target="_blank">https://www.pps.go.kr</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">41</td>  <td class="xl70" width="239" style="width: 179pt;">Ліхтенштейн</td>  <td class="xl65" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl75"><p><a href="https://apps.llv.li/amtsblatt/kundmachung/displayAct/0" target="_blank">https://apps.llv.li/amtsblatt/kundmachung/displayAct/0</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">42</td>  <td class="xl78" width="239" style="width: 179pt;">Чорногорія</td>  <td class="xl79" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl80"><p><a href="https://cfcu.gov.me/en/tenders/supply/open_supply" target="_blank">https://cfcu.gov.me/en/tenders/supply/open_supply</a></p></td> </tr> <tr height="56" style="height:42.0pt">  <td height="56" class="xl69" width="35" style="height: 42pt; width: 26pt;">43</td>  <td class="xl70" width="239" style="width: 179pt;">Нідерланди  щодо Аруби</td>  <td class="xl65" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl76" width="359" style="width: 269pt;"><p><a href="https://www.tenderned.nl" target="_blank">https://www.tenderned.nl</a></p><p>    <a href="https://www.government.aw/news/public-tenders_47039/" target="_blank">https://www.government.aw/news/public-tenders_47039/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">44</td>  <td class="xl78" width="239" style="width: 179pt;">Нова  Зеландія</td>  <td class="xl79" width="385" style="width: 289pt;">The  Government Electronic Tenders Service (GETS)</td>  <td class="xl80"><p><a href="https://www.gets.govt.nz/" target="_blank">https://www.gets.govt.nz/</a></p></td> </tr> <tr height="74" style="height:55.8pt">  <td height="74" class="xl69" width="35" style="height: 55.8pt; width: 26pt;">45</td>  <td class="xl70" width="239" style="width: 179pt;">Норвегія</td>  <td class="xl65" width="385" style="width: 289pt;">DOFFIN  Database for public procurement</td>  <td class="xl76" width="359" style="width: 269pt;"><p><a href="https://doffin.no" target="_blank">https://doffin.no</a></p><p>    <a href="https://www.visma.se/upphandlingsverktyg/" target="_blank">https://www.visma.se/upphandlingsverktyg/</a></p><p>    <a href="https://www.opic.com/" target="_blank">https://www.opic.com/</a></p><p>    <a href="https://eu.eu-supply.com/" target="_blank">https://eu.eu-supply.com/</a>&nbsp;</p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">46</td>  <td class="xl78" width="239" style="width: 179pt;">Сінгапур</td>  <td class="xl79" width="385" style="width: 289pt;">GeBiz</td>  <td class="xl80"><p><a href="https://www.gebiz.gov.sg/" target="_blank">https://www.gebiz.gov.sg/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">47</td>  <td class="xl70" width="239" style="width: 179pt;">Швейцарія</td>  <td class="xl65" width="385" style="width: 289pt;">SIMAP</td>  <td class="xl75"><p><a href="http://www.simap.ch" target="_blank">www.simap.ch</a></p></td> </tr> <tr height="74" style="height:55.8pt">  <td height="74" class="xl77" width="35" style="height: 55.8pt; width: 26pt;">48</td>  <td class="xl78" width="239" style="width: 179pt;">Сполучені  Штати Америки</td>  <td class="xl79" width="385" style="width: 289pt;">FedBizOps</td>  <td class="xl83" width="359" style="width: 269pt;"><p><a href="https://www.fbo.gov/" target="_blank">https://www.fbo.gov/</a></p><p>    <a href="https://fbohome.sam.gov/" target="_blank">https://fbohome.sam.gov/</a></p><p>    <a href="https://www.acquisition.gov/" target="_blank">https://www.acquisition.gov/</a></p><p>    <a href="https://www.fsd.gov/fsd-gov/home.do" target="_blank">https://www.fsd.gov/fsd-gov/home.do</a>&nbsp;</p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">49</td>  <td class="xl70" width="239" style="width: 179pt;">Україна</td>  <td class="xl65" width="385" style="width: 289pt;">ProZorro</td>  <td class="xl75"><p><a href="https://prozorro.gov.ua/" target="_blank">https://prozorro.gov.ua/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl77" width="35" style="height: 14.4pt; width: 26pt;">50</td>  <td class="xl78" width="239" style="width: 179pt;">Північна  Македонія</td>  <td class="xl79" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl80"><p><a href="http://www.e-nabavki.gov.mk/" target="_blank">http://www.e-nabavki.gov.mk/</a></p></td> </tr> <tr height="19" style="height:14.4pt">  <td height="19" class="xl69" width="35" style="height: 14.4pt; width: 26pt;">51</td>  <td class="xl70" width="239" style="width: 179pt;">Сербія</td>  <td class="xl65" width="385" style="width: 289pt;">&nbsp;</td>  <td class="xl75"><p><a href="http://www.piu.rs" target="_blank">http://www.piu.rs</a></p></td> </tr></tbody></table>
+                            </div>
+
+                            
+                            
+                            <div class="comments row">
+                                <div class="article__social">
+    <div class="rating-controls" data-post-id="1402" role="group">
+        <div class="rating-controls__btn-group">
+            <span class="rating-controls__title">Сподобалась стаття?</span>
+
+            <button class="rating-controls__btn rating-controls__btn_like">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+            </button>
+
+            <button class="rating-controls__btn rating-controls__btn_dislike">
+                <i class="fa fa-thumbs-down" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="rating-controls__btn-group rating-controls__btn-group_none">
+            <span class="rating-controls__title">
+                Сподобалось:
+                <b class="rating-controls__amount" id="likes">
+                    4
+                </b>
+            </span>
+                <span class="rating-controls__title rating-controls__title_ml">
+                Не сподобалось:
+                <b class="rating-controls__amount" id="dislikes">
+                    0
+                </b>
+            </span>
+        </div>
+    </div>
+
+    <div class="rating-controls">
+        <div class="rating-controls__title">Поділитися:</div>
+
+        <social-sharing url="http://infobox.prozorro.org/gpa/nacionalni-platformi-publichnih-zakupivel-krajin-chleniv-sot" inline-template>
+            <div  class="block-share__links">
+                <network network="facebook">
+                    <div class="block-share__link m__fb"><i class="fab fa-facebook-f"></i></div>
+                </network>
+                <network network="twitter">
+                    <div class="block-share__link m__twitter"><i class="fab fa-twitter"></i></div>
+                </network>
+                <network network="telegram">
+                    <div class="block-share__link m__telegram"><i class="fab fa-telegram-plane"></i></div>
+                </network>
+            </div>
+        </social-sharing>
+    </div>
+</div>
+
+<div class="block_comments">
+    <div class="coments_title_wrapper">
+        <h3 class="commenst_title">Коментарі</h3>
+        <button class="add_comment button button_blue">Залишити коментар</button>
+    </div>
+    <div class="comments_wrapper">
+                    <h4>До цієї статті ще немає коментарів. Станьте першим.</h4>
+            </div>
+
+</div>
+
+<div class="modal reviev_modal">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="review_form_wrapper">
+                <form id="review_form">
+
+                    <div class="form-group">
+                        <input class="forms-back_input form-control" name="name" id="name" type="text" placeholder="Ваше ім`я">
+                        <input class="forms-back_input form-control" name="email" id="email" type="text" placeholder="Ваш email">
+                        <input type="hidden" name="parent_id" value="0">
+                        <input type="hidden" name="post_id" value="1402">
+                        <input type="hidden" name="module_name" value="gpa">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="error forms-back_textarea" placeholder="Ваш коментар"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6Le8Qr4ZAAAAAPEneHEfVPgQzaVUf1Hce6ZLYg3b"></div>
+                    </div>
+
+                    <button class="send_review button button_blue">Надіслати коментар</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </article-component>
+
+            </div>
+
+            <aside class="aside__controls article__nav">
+                <acticle-navigation></acticle-navigation>
+            </aside>
+        </main>
+
+        <div class="page-block block-start article__subscribe">
+            <div class="container">
+                <div id="block-subscribe" class="block-subscribe block-subscribe-v2">
+    <div class="block-subscribe__wrapper">
+        <div class="block-subscribe__title">Актуальні новини, статті інфобоксу, роз&#039;яснення</div>
+        <form id="email-subscribe" class="form-subscribe" action="" method="get">
+            <div class="form-subscribe__input_wrapper">
+                <input placeholder="E-mail" class="form-subscribe__input" data-rule-required="true" data-msg-required="Введіть ваш email" data-rule-email="true" data-msg-email="Введіть дійсний email" name="email" type="text" value="">
+            </div>
+
+            <button class="form-subscribe__submit button" type='submit'>ПІДПИСАТИСЯ</button>
+        </form>
+    </div>
+</div>
+            </div>
+        </div>
+
+    </section>
+</main>
+<footer class="footer">
+        <div class="container">
+            <div class="footer__bl">
+                <div class="footer__links">
+                    <a class="footer__link" href="https://infobox.prozorro.org/faq" target="_blank">FAQ</a>
+                    <a class="footer__link" href="https://specifications.prozorro.org/specifications" target="_blank">Специфікації</a>
+                    <a class="footer__link" href="http://edubox.prozorro.org/forum" target="_blank">Форум</a>
+                    <a class="footer__link" href="https://dozorro.org/tools" target="_blank">Інструменти моніторингу</a>
+                    <a class="footer__link" href="https://infobox.prozorro.org/courses">Онлайн курси</a>
+                    <p class="footer__copyright">Інфобокс Prozorro(с)</p>
+                </div>
+                <div class="footer__links">
+                    <a class="footer__link" href="https://prozorro.gov.ua/" target="_blank">Головна Prozorro</a>
+                    <a class="footer__link" href="https://prozorro.gov.ua/majdanchiki-prozorro" target="_blank">Майданчики</a>
+                    <a class="footer__link" href="https://dozorro.org/" target="_blank">Dozorro</a>
+                    <a class="footer__link" href="http://www.me.gov.ua/?lang=uk-UA" target="_blank">МЕРТУ</a>
+                    <a class="footer__link" href="http://www.amc.gov.ua/amku/control/main/uk/index" target="_blank">АМКУ</a>
+                </div>
+            </div>
+            <div class="footer__bl">
+                <div class="footer__contact">
+                    <p class="main__p">Контакти</p>
+                    <p class="contact__phone">тел. (044) 281-42-87</p>
+                    <p class="contact__sh">пн-чт 8.30 - 17.15 <br> пт 8.30 - 16.00</p>
+                    <p class="contact__email">feedback@prozorro.ua</p>
+                </div>
+                <div class="footer__social">
+                    <p class="main__p">Слідкуйте за нами</p>
+                    <div class="social__icons">
+                        <a class="social__link" href="https://www.facebook.com/prozorro.gov.ua" target="_blank"><img src="/images/fb.svg"></a>
+                        <a class="social__link" href="https://www.youtube.com/channel/UCI-2twjrz8C4dYiQXDGZf5g" target="_blank"><img src="/images/yt.svg"></a>
+                        <a class="social__link" href="https://twitter.com/the_prozorro" target="_blank"><img src="/images/tv.svg"></a>
+                        <a class="social__link" href="https://www.instagram.com/prozorro_team/" target="_blank"><img src="/images/inst.svg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://embed.small.chat/T04QGHNFQGFJRS25CY.js" async></script>
+
+<div class="modal m-subscription">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+
+            <div class="form-content">
+                <div class="form-content-first">
+                    <div class="modal__title">Яку саме інформацію ви бажаєте отримувати?</div>
+                    <div class="modal__description">Ми прагнемо доставляти лише ті повідомлення, які ви хочете отримувати. Якщо вас цікавлять повідомлення про щось нове на інфобоксі, залиште вашу адресу електроної пошти тут.</div>
+
+                    <form method="POST" action="https://infobox.prozorro.org/gpa/nacionalni-platformi-publichnih-zakupivel-krajin-chleniv-sot" accept-charset="UTF-8" role="form" class="form-help form_ajax" data-url="/api/subscribe" data-renew="1"><input name="_token" type="hidden" value="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+
+                    <input type="hidden" name="email" class="input_email">
+
+                    <div class="modal__options">
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="customer" type="checkbox" checked value="1">
+                                <div class="blue">для замовників</div>
+                                <div>Отримувати поради та актуальну інформацію для Замовника</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="users" type="checkbox" checked value="1">
+                                <div class="green">для постачальників</div>
+                                <div>Отримувати повідомлення про нові статті та актуальну інформацію для постачальників</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="press" type="checkbox" checked value="1">
+                                <div class="orange">для журналістів</div>
+                                <div>Отримувати повідомлення про актуальні можливості системи з моніторінгу публічних закупівель</div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="form-subscribe__submit button button_green solid" type='submit'>ПІДПИСАТИСЯ</button>
+
+                    </form>
+                </div>
+
+                <div class="form-content-last">
+                    <div class="message">
+                        Дякуємо за підписку на розсилку від Прозорро
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal-window_image-zoom">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="modal-window__image-zoom">
+                <img class="modal-window_image" src="">
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="/js/app.js?id=dcc7a4755264c6411045"></script>
+</body>
+</html>

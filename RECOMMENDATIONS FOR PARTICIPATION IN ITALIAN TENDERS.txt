@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ua" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ua" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ua"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="csrf-token" content="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W297TCW');</script>
+    <!-- End Google Tag Manager -->
+
+    <title>Рекомендації щодо участі українського бізнесу в тендерах Італії</title>
+        <meta name="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+        
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="Рекомендації щодо участі українського бізнесу в тендерах Італії">
+        <meta itemprop="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta itemprop="image" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://twitter.com/the_prozorro">
+        <meta name="twitter:title" content="Рекомендації щодо участі українського бізнесу в тендерах Італії">
+        <meta name="twitter:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:image:src" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="Рекомендації щодо участі українського бізнесу в тендерах Італії" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-italiji" />
+        <meta property="og:image" content="https://infobox.prozorro.org/images/icons/default.png" />
+        <meta property="og:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+                        <meta property="article:published_time" content="2020-11-24 00:00:00" />
+        <meta property="article:section" content="Контент" />
+                                
+<!-- automatically generated meta tags -->
+
+
+    
+    <link rel="stylesheet" href="/css/app.css?id=8661cee750b833c67074">
+    <link rel="stylesheet" href="/css/vendor.css?id=e288baa35b544989d39a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73544428-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73544428-6');
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?hl=uk" async defer></script>
+
+</head>
+
+<body class=mt-header>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W297TCW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noclass="block-searchscript) -->
+<header class="header">
+        <div class="container">
+            <div class="navigation-bar">
+
+            <a href='/' class="navigation-bar-logo-panel">
+                <img src="/images/logo.png" class="navigation-bar-logo-panel__image">
+                <div class="navigation-bar-logo-panel__title">
+                    <span>PROZORRO <span>інфобокс</span></span>
+                    <span class="navigation-bar-logo-panel__title-desc">центр знань про публічні закупівлі</span>
+                </div>
+            </a>
+
+            <div class="navigation-bar-menu">
+                <a href="https://infobox.prozorro.org/articles" class="navigation-bar-menu__link ">Все про закупівлі</a>
+                <a href="https://infobox.prozorro.org/updates" class="navigation-bar-menu__link ">Оновлення</a>
+                <a href="https://infobox.prozorro.org/gpa" class="navigation-bar-menu__link active">Міжнародні тендери GPA</a>
+                <a href="https://infobox-forum.prozorro.org" class="navigation-bar-menu__link active">Питання до спільноти</a>
+                <a href="https://infobox.prozorro.org/news-mert" class="navigation-bar-menu__link ">Законодавство</a>
+                <a href="https://infobox.prozorro.org/courses" class="navigation-bar-menu__link ">Онлайн курси</a>
+                <a href="https://infobox.prozorro.org/newlaw-zamovnykam" class="navigation-bar-menu__link ">Новий закон</a>
+            </div>
+
+                <a class="navigaton-bar-button navigaton-bar-button_x">
+                    <div class="navigaton-bar-button__icon"></div>
+                </a>
+            </div>
+        </div>
+    </header>
+
+<main id="app" class=content>
+    
+    <section class="p-article m-news">
+
+        <div class="page-block">
+            <subscribe-header></subscribe-header>
+        </div>
+
+        <main class="container-v2">
+            <div class="content">
+                <items-component type="news" v-bind:initial-show="false"></items-component>
+
+                <article-component inline-template>
+                    <div class="block-article">
+
+                        <div class="article__body">
+
+                            <div class="body__head">
+                                <div class="head__image">
+                                </div>
+                                <div class="head__info">
+                                    <h1 class="info__title">
+                                        Рекомендації щодо участі українського бізнесу в тендерах Італії
+                                    </h1>
+                                    <div class="info__subtitle">
+                                                                                    <span class="subtitle__author">Олександр Шатковський, Тарас Шимко</span>
+                                                                                <span class="subtitle__date">24.11.2020</span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                                                            <div class="body__caption">
+                                    Детальна інструкція щодо участі в закупівлях Італії
+                                </div>
+                            
+                            <div class="body__text">
+                                <h2>Як побудована закупівельна система Італії</h2><p class="MsoNormal">Система державних закупівель в Італії є поєднанням децентралізованої та централізованої системи закупівель; державна організація CONSIP є головним централізованим органом закупівель, а замовники розподілені між міністерствами, центральними офісами, провінціями, територіальними органами самоврядування та комунальними підприємствами.</p><p class="MsoNormal">Державні закупівлі в Італії регулюються Кодексом державних контрактів (Законодавчий декрет 50/2016, який набув чинності 19 квітня 2016 р., Далі - <b><i>Кодекс ДК</i></b>). Кодекс ДК також імпелементує три директиви ЄС (Директива № 23 від 2014 року Про концесії, Директива № 24 від 2014 року щодо публічних закупівель у державному секторі та Директива № 25 про закупівлі у сфері комунальних та інфрастурктурних послуг).</p><p class="MsoNormal">Оскільки національне законодавство базується на директивах ЄС, для українського бізнесу це зручно для розуміння, оскільки українське національне законодавство (чинний 2016 рік та нова редакція закону, який набуде чинності в 2020 році) також ґрунтуються на директивах ЄС, як це передбачено через виконання відповідно до Угоди про асоціацію між Україною та ЄС. </p><p class="MsoNormal">Однак сфера дії Кодексу є ширшою, ніж Директиви ЄС, оскільки він регулює всі процедури присудження договорів як вище, так і нижче порогових значень ЄС, і він містить додаткові правила, які не передбачені Директивами ЄС, хоча відповідають  тим же принципам.</p><p class="MsoNormal">Крім Кодексу ДК, окремим Указом про оборону (2011) регулюються процедури закупівель для придбання військової техніки та пов'язаних з ними послуг / робіт, що базуються на Директиві ЄС щодо оборонних закупівель 81/2009.</p><p class="MsoNormal">Кодекс не є єдиним консолідованим регулюванням, а передбачає досить багато підзаконних актів, таких як міністерські укази та керівні принципи, видані Національним органом з питань боротьби з корупцією ("<b>ANAC</b>") – усього 50 !!! підзаконних актів. </p><p class="MsoNormal">Стаття 35 Кодексу передбачає конкретні пороги для визначення покриття індивідуального контракту, зокрема </p><h2>Мінімальні національні межі для обов'язкових процедур закупівель</h2><p class="MsoListParagraph"><i>1) </i><i>Мінімальні національні межі для обов'язкових процедур закупівель: </i></p><p class="MsoNormal">• Товарів та послуг: від 40 000 EUR  до 144 000 EUR,</p><p class="MsoNormal">• Будівельних робіт: від  200 000 EUR дo 5 548 000 EUR.</p><p class="MsoListParagraph"><i>2) </i><i>Пороги ЄС для обов'язкових процедур закупівель відповідно до єдиних правил ЄС: </i></p><p>• Товарів та послуг: від 144 000 EUR,</p><p class="MsoNormal">• Будівельних робіт: від 5 548 000 EUR, </p><p class="MsoNormal">• Соціальних та медичних послуг: від 400 000 EUR, </p><p class="MsoNormal">• Інших конкретних послуг: від 300 000 EUR, </p><p class="MsoNormal">• Концесій (послуги та роботи): від 500 000 EUR.</p><p class="MsoNormal">Тим не менш, Кодекс застосовується до всіх процедур як понад порогами ЄС, так і нижче порогів ЄС. Процедурні правила, передбачені для договорів, що перевищують поріг ЄС, спрямовані на те, щоб будь-який суб’єкт ЄС міг брати участь у процедурі, тоді як нижче таких порогових значень режим закуіпвель більше пристосований до внутрішньої конкуренції, а основна різниця стосується оприлюднення тендерних оголошень, які публікуються, у першому випадку (ті, що перевищують поріг ЄС), в <i>Офіційному журналі Європейського Союзу (</i><i>TED</i><i>)</i>, а в другому випадку (нижче порогу ЄС), на веб-сайті <b>ANAC</b> та веб-сайті замовника. </p><p class="MsoNormal">Що стосується контрактів на національному рівні, також варто згадати, що навіть нижче певного порогу (40 000 євро на товари/ послуги та від 40 000 до 200 000 євро для робіт), Кодекс передбачає конкретні правила щодо процедури присудження з дотримання прямих посилань на загальні принципи - такі договори з низьким кошторисом укладаються через процедуру прямих переговорів, але за умови попередньої консультації більше ніж з 2 суб’єктами господарювання за їх наявності, обраних на основі дослідження ринку або зі спеціальних списків та відповідно до критерію ротації (спеціальне італійське правило для контрактів з низькою вартістю). </p><p class="MsoNormal">Контракти на суму 40 000 євро або більше але нижче порогового рівня ЄС також підлягають фактично процедурі переговорів за участі принаймні п’яти субєктів господарювання у разі закупівель  товарів і послуг, та мінімум десять учасників у разі закупівлі  робіт - також обраних на основі дослідження ринку або зі спеціальних списків та відповідно до критерію ротації (спеціальне італійське правило для контрактів з низькою вартістю).</p><p class="MsoNormal">Додатковим правилом для обох випадків договорів, що не перевищують поріг ЄС (нижче і вище 40,000 євро, але нижче порогових знаків ЄС), є обов'язкове використання електронної платформи “<b>MEPA</b>”, що адмініструється згаданим <b>CONSIP</b>, та/або регіональної електронної платформи (за наявності) для ВСІХ контрактів вище 1000 євро. Це також означає, що замовники можуть обрати підрядника серед постачальників, зареєстрованих на таких платформах.</p><h2>Обсяг закупівель Італії</h2><p>Середній річний обсяг ринку італійських державних закупівель, що підпадає під обов'язкові тендерні процедури, становить близько 90 млрд. євро, де близько 30% закуповується на центральному рівні, а інші 70% належать до регіонального / муніципального рівня. У 2018 році найбільшими контрактами за вартістю були будівельні роботи (майже 6 млрд. євро), медичне обладнання та лікарські засоби (4,3 млрд. євро), транспортні засоби та супутня продукція (3,5 млрд. євро), ремонт та послуги обслуговування приміщень (2,4 млрд. євро), охорона здоров'я та супутні послуги (1,6 млрд. євро). Кількість тендерів, проведених у 2018 році, також є досить вражаючою: 13000 відкритих тендерних процедур, 678 процедур переговорів  та 653 торгів з обмеженою участю - очевидно, що відкритий тендер є домінуючою процедурою.</p><p class="MsoNormal">Замовники - "лідери з вартості контрактів", у 2018 були наступні:</p><p class="MsoListParagraph">1) державна централізована закупівельна організація (ЦЗО) CONSIP;</p><p class="MsoListParagraph">2) італійська залізниця (Ferroviaria);</p><p class="MsoListParagraph">3) Орган Закупівель у сфері оборони;</p><p class="MsoListParagraph">4) Регіональний орган із закупівель Умбрії. </p><p class="MsoNormal">Це досить велике значення (річна вартість ПЗ в Італії в 3 рази більше, ніж вартість українського ринку ПЗ за 2017-2018 рр.) разом із порівняно недалекою відстаню від України роблять Італію привабливою для українського бізнесу. Ще однією важливою особливістю є те, що в Італії існує досить відомий і дуже ефективна централізована  закупівельна організація - <b>CONSIP </b>- насправді найбільший державний покупець в Італії, який також координує операції з закупівель регіональних централізованих закупівельних оранізацій. Ще одним важливим фактором є те, що в Італії дуже велика українська трудова діаспора, а також багато українців, які зараз живуть в Україні, мають досвід роботи та ведення бізнесу в Італії, що разом може бути корисним джерелом італомовних фахівців, які знають різні нюанси ведення бізнесу в Італії. </p><p class="MsoNormal">І нарешті, але не менш важливо, Італія, як член ЄС є членом GPA, як і Україна, що спрощує речі внаслідок дуже схожого режиму закупівель в наших країнах. </p><h2>Де шукати тендери та як подати пропозицію на тендер в Італії</h2><p class="MsoNormal">Усі процедури закупівель усіх замовників Італії публікуються у кількох джерелах, залежно від вартості контракту та способу закупівлі:</p><p class="MsoListParagraph">1) У випадку значень, що перевищують порогові показники ЄС, повідомлення публікуються в базі даних ПЗ ЄС TED (<a href="https://ted.europa.eu/">https://ted.europa.eu</a>) англійською мовою, і такі повідомлення обов'язково включають опис кваліфікаційних вимог, критерії оцінки та базовий технічний опис предмета закупівлі, а також посилання на веб-сайт (як правило, власний веб-сайт замовника), де можна безкоштовно завантажити всі тендерні документи; </p><p class="MsoListParagraph">2) У всіх випадках - на власних веб-сайтах кожного замовника італійською мовою. Усі державні органи публікують повідомлення про тендери та тендерну документацію на спеціальному розділі (<i>Amministrazione Trasparente - Прозора адміністрація</i>) власних веб-сайтів, тоді як закупівлі замовників, які не є державними органами, (підприємства) публікують тендерні повідомлення та документи на спеціальних  закупівельних підпорталах (зазвичай називається "<b>Portale Acquisti</b>") власних веб-сайтів;</p><p class="MsoListParagraph">3) Більшість закупівель публікуються (лише італійською мовою) на електронному майданчику MEPA (<a href="http://www.acquistinretepa.it/">www.acquistinretepa.it</a>), яким керує найбільший італійський ЦЗО CONSIP.</p><p class="MsoNormal">Для участі та подання тендерних пропозицій суб'єкт господарювання може виконувати вказівки із відповідного оголошення, де замовник вказує електронну адресу для отримання тендерної документації та подання заявок на участь та подання тендерних пропозицій. Як вже було сказано, тендерну документацію можна завантажити з веб-сайту замовників або з MEPA (але тільки якщо там оголошення було опубліковане).</p><p class="MsoNormal">Що стосується регіональних або муніципальних замовників, то досить часто практикується тендерна документація, яка може бути завантажена з веб-сайту замовника, але тендерна пропозиція при цьому повинен бути подана до регіонального ЦЗО, який діє від імені замовників відповідного регіону.</p><h2 id="H2_5">Детальна презентація щодо участі в закупівлях Італії</h2>
+                            </div>
+
+                            <div class="body__pdf">
+                            <div class="js__pdf-container">
+                    <div class="js__pdf-content">
+
+                    </div>
+
+                    <div class="js_pdf-source" style="display: none">
+                        <object data="/upload/files/main/1394/543/gpa-guide-italy-ukr-final-1.pdf" type="application/pdf" width="100%" height="100%" style="height: 600px;">
+                            <embed src="/upload/files/main/1394/543/gpa-guide-italy-ukr-final-1.pdf" type="application/pdf">
+                            <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/upload/files/main/1394/543/gpa-guide-italy-ukr-final-1.pdf">Download PDF</a>.</p>
+                        </object>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="body__file">
+            <a class="button" href="/upload/files/main/1394/543/gpa-guide-italy-ukr-final-1.pdf" target="_blank">
+                <i class="fas fa-download"></i> Відкрити
+            </a>
+        </div>
+    
+                            
+                            <div class="comments row">
+                                <div class="article__social">
+    <div class="rating-controls" data-post-id="1394" role="group">
+        <div class="rating-controls__btn-group">
+            <span class="rating-controls__title">Сподобалась стаття?</span>
+
+            <button class="rating-controls__btn rating-controls__btn_like">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+            </button>
+
+            <button class="rating-controls__btn rating-controls__btn_dislike">
+                <i class="fa fa-thumbs-down" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="rating-controls__btn-group rating-controls__btn-group_none">
+            <span class="rating-controls__title">
+                Сподобалось:
+                <b class="rating-controls__amount" id="likes">
+                    0
+                </b>
+            </span>
+                <span class="rating-controls__title rating-controls__title_ml">
+                Не сподобалось:
+                <b class="rating-controls__amount" id="dislikes">
+                    0
+                </b>
+            </span>
+        </div>
+    </div>
+
+    <div class="rating-controls">
+        <div class="rating-controls__title">Поділитися:</div>
+
+        <social-sharing url="http://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-italiji" inline-template>
+            <div  class="block-share__links">
+                <network network="facebook">
+                    <div class="block-share__link m__fb"><i class="fab fa-facebook-f"></i></div>
+                </network>
+                <network network="twitter">
+                    <div class="block-share__link m__twitter"><i class="fab fa-twitter"></i></div>
+                </network>
+                <network network="telegram">
+                    <div class="block-share__link m__telegram"><i class="fab fa-telegram-plane"></i></div>
+                </network>
+            </div>
+        </social-sharing>
+    </div>
+</div>
+
+<div class="block_comments">
+    <div class="coments_title_wrapper">
+        <h3 class="commenst_title">Коментарі</h3>
+        <button class="add_comment button button_blue">Залишити коментар</button>
+    </div>
+    <div class="comments_wrapper">
+                    <h4>До цієї статті ще немає коментарів. Станьте першим.</h4>
+            </div>
+
+</div>
+
+<div class="modal reviev_modal">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="review_form_wrapper">
+                <form id="review_form">
+
+                    <div class="form-group">
+                        <input class="forms-back_input form-control" name="name" id="name" type="text" placeholder="Ваше ім`я">
+                        <input class="forms-back_input form-control" name="email" id="email" type="text" placeholder="Ваш email">
+                        <input type="hidden" name="parent_id" value="0">
+                        <input type="hidden" name="post_id" value="1394">
+                        <input type="hidden" name="module_name" value="gpa">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="error forms-back_textarea" placeholder="Ваш коментар"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6Le8Qr4ZAAAAAPEneHEfVPgQzaVUf1Hce6ZLYg3b"></div>
+                    </div>
+
+                    <button class="send_review button button_blue">Надіслати коментар</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </article-component>
+
+            </div>
+
+            <aside class="aside__controls article__nav">
+                <acticle-navigation></acticle-navigation>
+            </aside>
+        </main>
+
+        <div class="page-block block-start article__subscribe">
+            <div class="container">
+                <div id="block-subscribe" class="block-subscribe block-subscribe-v2">
+    <div class="block-subscribe__wrapper">
+        <div class="block-subscribe__title">Актуальні новини, статті інфобоксу, роз&#039;яснення</div>
+        <form id="email-subscribe" class="form-subscribe" action="" method="get">
+            <div class="form-subscribe__input_wrapper">
+                <input placeholder="E-mail" class="form-subscribe__input" data-rule-required="true" data-msg-required="Введіть ваш email" data-rule-email="true" data-msg-email="Введіть дійсний email" name="email" type="text" value="">
+            </div>
+
+            <button class="form-subscribe__submit button" type='submit'>ПІДПИСАТИСЯ</button>
+        </form>
+    </div>
+</div>
+            </div>
+        </div>
+
+    </section>
+</main>
+<footer class="footer">
+        <div class="container">
+            <div class="footer__bl">
+                <div class="footer__links">
+                    <a class="footer__link" href="https://infobox.prozorro.org/faq" target="_blank">FAQ</a>
+                    <a class="footer__link" href="https://specifications.prozorro.org/specifications" target="_blank">Специфікації</a>
+                    <a class="footer__link" href="http://edubox.prozorro.org/forum" target="_blank">Форум</a>
+                    <a class="footer__link" href="https://dozorro.org/tools" target="_blank">Інструменти моніторингу</a>
+                    <a class="footer__link" href="https://infobox.prozorro.org/courses">Онлайн курси</a>
+                    <p class="footer__copyright">Інфобокс Prozorro(с)</p>
+                </div>
+                <div class="footer__links">
+                    <a class="footer__link" href="https://prozorro.gov.ua/" target="_blank">Головна Prozorro</a>
+                    <a class="footer__link" href="https://prozorro.gov.ua/majdanchiki-prozorro" target="_blank">Майданчики</a>
+                    <a class="footer__link" href="https://dozorro.org/" target="_blank">Dozorro</a>
+                    <a class="footer__link" href="http://www.me.gov.ua/?lang=uk-UA" target="_blank">МЕРТУ</a>
+                    <a class="footer__link" href="http://www.amc.gov.ua/amku/control/main/uk/index" target="_blank">АМКУ</a>
+                </div>
+            </div>
+            <div class="footer__bl">
+                <div class="footer__contact">
+                    <p class="main__p">Контакти</p>
+                    <p class="contact__phone">тел. (044) 281-42-87</p>
+                    <p class="contact__sh">пн-чт 8.30 - 17.15 <br> пт 8.30 - 16.00</p>
+                    <p class="contact__email">feedback@prozorro.ua</p>
+                </div>
+                <div class="footer__social">
+                    <p class="main__p">Слідкуйте за нами</p>
+                    <div class="social__icons">
+                        <a class="social__link" href="https://www.facebook.com/prozorro.gov.ua" target="_blank"><img src="/images/fb.svg"></a>
+                        <a class="social__link" href="https://www.youtube.com/channel/UCI-2twjrz8C4dYiQXDGZf5g" target="_blank"><img src="/images/yt.svg"></a>
+                        <a class="social__link" href="https://twitter.com/the_prozorro" target="_blank"><img src="/images/tv.svg"></a>
+                        <a class="social__link" href="https://www.instagram.com/prozorro_team/" target="_blank"><img src="/images/inst.svg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://embed.small.chat/T04QGHNFQGFJRS25CY.js" async></script>
+
+<div class="modal m-subscription">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+
+            <div class="form-content">
+                <div class="form-content-first">
+                    <div class="modal__title">Яку саме інформацію ви бажаєте отримувати?</div>
+                    <div class="modal__description">Ми прагнемо доставляти лише ті повідомлення, які ви хочете отримувати. Якщо вас цікавлять повідомлення про щось нове на інфобоксі, залиште вашу адресу електроної пошти тут.</div>
+
+                    <form method="POST" action="https://infobox.prozorro.org/gpa/rekomendaciji-shchodo-uchasti-ukrajinskogo-biznesu-v-tenderah-italiji" accept-charset="UTF-8" role="form" class="form-help form_ajax" data-url="/api/subscribe" data-renew="1"><input name="_token" type="hidden" value="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+
+                    <input type="hidden" name="email" class="input_email">
+
+                    <div class="modal__options">
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="customer" type="checkbox" checked value="1">
+                                <div class="blue">для замовників</div>
+                                <div>Отримувати поради та актуальну інформацію для Замовника</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="users" type="checkbox" checked value="1">
+                                <div class="green">для постачальників</div>
+                                <div>Отримувати повідомлення про нові статті та актуальну інформацію для постачальників</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="press" type="checkbox" checked value="1">
+                                <div class="orange">для журналістів</div>
+                                <div>Отримувати повідомлення про актуальні можливості системи з моніторінгу публічних закупівель</div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="form-subscribe__submit button button_green solid" type='submit'>ПІДПИСАТИСЯ</button>
+
+                    </form>
+                </div>
+
+                <div class="form-content-last">
+                    <div class="message">
+                        Дякуємо за підписку на розсилку від Прозорро
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal-window_image-zoom">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="modal-window__image-zoom">
+                <img class="modal-window_image" src="">
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="/js/app.js?id=dcc7a4755264c6411045"></script>
+</body>
+</html>

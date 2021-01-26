@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ua" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ua" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ua"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="csrf-token" content="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W297TCW');</script>
+    <!-- End Google Tag Manager -->
+
+    <title>&quot;Купуй американське&quot;. Як працює локалізація у світі і що не так з цим в Україні»</title>
+        <meta name="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+        
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="&quot;Купуй американське&quot;. Як працює локалізація у світі і що не так з цим в Україні»">
+        <meta itemprop="description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta itemprop="image" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://twitter.com/the_prozorro">
+        <meta name="twitter:title" content="&quot;Купуй американське&quot;. Як працює локалізація у світі і що не так з цим в Україні»">
+        <meta name="twitter:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:image:src" content="https://infobox.prozorro.org/images/icons/default.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="&quot;Купуй американське&quot;. Як працює локалізація у світі і що не так з цим в Україні»" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://infobox.prozorro.org/gpa/kupuy-amerikanske-yak-pracyuye-lokalizaciya-u-sviti-i-shcho-ne-tak-z-cim-v-ukrajini" />
+        <meta property="og:image" content="https://infobox.prozorro.org/images/icons/default.png" />
+        <meta property="og:description" content="Інформаційний ресурс, створений командою Прозорро, щоб навчитися працювати в системі електронних закупівель" />
+                        <meta property="article:published_time" content="2020-11-24 00:00:00" />
+        <meta property="article:section" content="Контент" />
+                                
+<!-- automatically generated meta tags -->
+
+
+    
+    <link rel="stylesheet" href="/css/app.css?id=8661cee750b833c67074">
+    <link rel="stylesheet" href="/css/vendor.css?id=e288baa35b544989d39a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73544428-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73544428-6');
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?hl=uk" async defer></script>
+
+</head>
+
+<body class=mt-header>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W297TCW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noclass="block-searchscript) -->
+<header class="header">
+        <div class="container">
+            <div class="navigation-bar">
+
+            <a href='/' class="navigation-bar-logo-panel">
+                <img src="/images/logo.png" class="navigation-bar-logo-panel__image">
+                <div class="navigation-bar-logo-panel__title">
+                    <span>PROZORRO <span>інфобокс</span></span>
+                    <span class="navigation-bar-logo-panel__title-desc">центр знань про публічні закупівлі</span>
+                </div>
+            </a>
+
+            <div class="navigation-bar-menu">
+                <a href="https://infobox.prozorro.org/articles" class="navigation-bar-menu__link ">Все про закупівлі</a>
+                <a href="https://infobox.prozorro.org/updates" class="navigation-bar-menu__link ">Оновлення</a>
+                <a href="https://infobox.prozorro.org/gpa" class="navigation-bar-menu__link active">Міжнародні тендери GPA</a>
+                <a href="https://infobox-forum.prozorro.org" class="navigation-bar-menu__link active">Питання до спільноти</a>
+                <a href="https://infobox.prozorro.org/news-mert" class="navigation-bar-menu__link ">Законодавство</a>
+                <a href="https://infobox.prozorro.org/courses" class="navigation-bar-menu__link ">Онлайн курси</a>
+                <a href="https://infobox.prozorro.org/newlaw-zamovnykam" class="navigation-bar-menu__link ">Новий закон</a>
+            </div>
+
+                <a class="navigaton-bar-button navigaton-bar-button_x">
+                    <div class="navigaton-bar-button__icon"></div>
+                </a>
+            </div>
+        </div>
+    </header>
+
+<main id="app" class=content>
+    
+    <section class="p-article m-news">
+
+        <div class="page-block">
+            <subscribe-header></subscribe-header>
+        </div>
+
+        <main class="container-v2">
+            <div class="content">
+                <items-component type="news" v-bind:initial-show="false"></items-component>
+
+                <article-component inline-template>
+                    <div class="block-article">
+
+                        <div class="article__body">
+
+                            <div class="body__head">
+                                <div class="head__image">
+                                </div>
+                                <div class="head__info">
+                                    <h1 class="info__title">
+                                        &quot;Купуй американське&quot;. Як працює локалізація у світі і що не так з цим в Україні»
+                                    </h1>
+                                    <div class="info__subtitle">
+                                                                                    <span class="subtitle__author">Іван Лахтіонов</span>
+                                                                                <span class="subtitle__date">24.11.2020</span>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                                                            <div class="body__caption">
+                                    Чому спроби захистити національного виробника в Україні перешкоджають конкуренції, і як працює (або ні) локалізація в інших країнах світу.
+                                </div>
+                            
+                            <div class="body__text">
+                                <p>Цьогоріч сферу публічних закупівель струсонули дві спроби (<a href="https://www.me.gov.ua/Documents/Detail?id=9d331bed-b8c9-4e93-ba1f-c5518ee41b6d" target="_blank">Мінекономіки</a> та <a href="http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=69275" target="_blank">народних депутатів</a>) запровадити локалізацію в закупівлі техніки, яку продукує галузь машинобудування.</p><p>Локалізація передбачає, що в закупівлі, приміром, пожежних машин можуть брати участь лише ті постачальники, які матимуть довідку про певний відсоток "українськості" своїх автомобілів.</p><p>Проти цих ідей виступили експерти громадського сектору та міжнародні організації, представники бізнесу та економісти-дослідники.</p><p>Локалізація порушує міжнародні зобов'язання України, несе низку корупційних ризиків та загрожує падінням ВВП. Однак автори переконують, що вона сприятиме розвитку машинобудівної промисловості, і наводять приклади преференцій вітчизняним виробникам в інших державах.</p><div id="adriver_banner_1215901148"></div><p>Однак ідеї наших урядовців та парламентарів трохи відрізняються від практики інших країн. У списку від Мінекономіки є США, Індія, Китай, Канада, Норвегія і Бангладеш. Народні депутати, окрім Штатів, обрали ЄС та Узбекистан.</p><h2>Локалізація в США</h2><p>Почесне місце в аргументації "за" локалізацію посідають Сполучені Штати. Buy American Act згадують усі, але яка локалізація насправді діє у цій країні?</p><p><a href="https://uscode.house.gov/view.xhtml?path=/prelim@title41/subtitle4/chapter83&edition=prelim" target="_blank">Buy American Act</a> (BAA) – закон, ухвалений у 1933 році для підтримки американського виробництва під час Великої депресії. Деякі його положення згодом включили до <a href="https://www.govinfo.gov/content/pkg/BILLS-111hr1enr/pdf/BILLS-111hr1enr.pdf" target="_blank">American Recovery and Reinvestment Act</a> (2009 рік).</p><p>Згідно з BAA, нецінові переваги отримують необроблені кінцеві продукти і будматеріали, видобуті чи вироблені у США (сировина), а також кінцеві продукти і будматеріали, виготовлені у США, якщо вартість локальних компонентів перевищує 50% або якщо товар готовий та комерційно доступний.</p><div><h6 class="text__attention"><a href="https://www.epravda.com.ua/publications/2020/09/7/664779/" target="_blank">Курс на протекціонізм: чи може локалізація врятувати українських виробників</a></h6></div><p>Утім, Білий дім не погодився з тим, що ці два закони можна назвати схожими з локалізацією, яку намагаються впровадити в Україні.</p><p>В адміністрації Трампа <a href="https://www.eurointegration.com.ua/news/2020/08/25/7113549/">наголосили</a>, що підприємства з держав-членів СОТ, які підписали угоду про державні закупівлі, у тому числі Україна, отримують такі ж преференції, як і американські компанії. Аналогічна ситуація і з закупівлями, які охоплюються угодами про вільну торгівлю (FTA). Але навіть для третіх країн американська локалізація діє не так само, як пропонують у нас.</p><p>По-перше, локальні товари отримують фору у закупівлях, дорожчих за порогове значення, та залежно від розмірів їх виробника: від 6% для великого бізнесу до 12% для малого (для оборонних закупівель можлива преференція до 50%).</p><p>По-друге, замовник може відмовитися від "локального" товару, якщо це шкодитиме суспільним інтересам чи якщо він вважатиме ціну невиправданою.</p><p>По-третє, локалізацію можна не застосовувати в публічних закупівлях, якщо продукцію в США не виробляють у достатній кількості та необхідної якості.</p><p></p><p></p><div class="fhCy7s4Gq5"></div><p>Наостанок: чи коректно взагалі порівнювати економіки США та України? Американські виробничі потужності в рази більші за наші. На це впливають історія розвитку держав та їх промисловості, природні ресурси і розташування.</p><h2>Європейський Союз</h2><p>Запровадження торговельних обмежень між членами ЄС визнано порушенням, зокрема <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012E%2FTXT" target="_blank">статтею 34</a>"Договору про функціонування Європейського Союзу". Спроби обійти правила траплялися, але таке одразу зупиняли.</p><p><strong>Данія. </strong>Уряд встановив вимоги щодо обов'язкового використання датських матеріалів, товарів народного споживання, робочої сили та обладнання. Суд ЄС постановив, що такі умови порушують законодавство Співтовариства. Данія свою провину визнала і прийняла відповідальність перед учасниками торгів.</p><p><strong>Італія. </strong>Італійці ввели вимогу, щоб усі органи влади, установи і компанії, у яких держава мала частки, отримували щонайменше 30% запасів від промислових та аграрних підприємств і малого бізнесу з півдня Італії. Це правило також стосувалося продуктів, які хоча б частково були перероблені в тому регіоні.</p><p>Суд ЄС визнав, що такі вимоги порушують зобов'язання Італії і є незаконними.</p><p><strong>Buy British Fruit</strong>. Позов проти британської ради, яка намагалася просувати британські фрукти. Суд постановив, що не можна зменшувати цінність товарів в очах споживачів на основі їх походження. Також він сказав, що уряд може звертати увагу на інші позитивні особливості британських фруктів.</p><p>Однак інколи про країни ЄС таки згадують у контексті локалізації. Наприклад, розповідають про італійські субсидії і особливості грецьких "зелених" тарифів. Утім, ці заходи не є локалізацією. Субсидування, звісно, допомагає вітчизняним виробникам, однак це не преференції в публічних закупівлях.</p><div><h6 class="text__attention"><a href="https://www.epravda.com.ua/columns/2020/06/22/662106/" target="_blank">Купуй українське – плати українцям</a></h6></div><p>Іноді прихильники локалізації також посилаються на <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0025#ntr24-L_2014094EN.01024301-E0024" target="_blank">директиву 2014/25/ЄС</a>, яка стосується закупівель державних замовників, що працюють у сферах постачання води та енергії, надання транспортних і поштових послуг.</p><p>Вони можуть відхиляти пропозиції учасників торгів, якщо частка продукції країн-членів ЄС у них менша 50%. Однак цю норму можна застосувати лише до постачальників з держав, з якими у ЄС немає двосторонньої чи багатосторонньої угоди щодо зовнішньої торгівлі. До того ж, можливість відхилення тендерної пропозиції запроваджена не на рівні окремої країни.</p><p>Загальні ж правила ЄС чітко вказують: державні закупівлі мають відповідати принципам прозорості, недискримінації та рівного ставлення.</p><h2><span style="font-size: 2rem;">Локалізація в</span><span style="font-size: 2rem;"> </span>Індія</h2><p>В Індії справді запровадили локалізацію у публічні закупівлі. За наявності конкурентного місцевого ринку з достатніми виробничими потужностями закупівлі до певного порогу відкриті лише для індійських фірм. Дорожчі тендери або ті, для яких бракує власних виробничих потужностей, відкриті для всіх.</p><p>Однак це лише елемент великої програми розвитку промисловості та залучення інвестицій. Прем'єр-міністр держави оголосив про її початок ще у 2014 році. Make in India фокусується на 25 секторах, які включають автомобілебудування та авіабудування, фармацевтику та галузь біотехнологій.</p><p>Аби стимулювати вітчизняну промисловість і залучити іноземні інвестиції, індійці запровадили електронний портал для отримання ліцензій на промислову діяльність, пільгове оподаткування малого та середнього бізнесу, субсидування енергоощадних виробництв, "індустріальні коридори" для розвитку промислової інфраструктури, інвестиційні форуми, промоцію інвестиційних можливостей.</p><p>Цю програму критикували за надто амбітні цілі, подекуди лише формальне впровадження, високу залежність від прямих іноземних інвестицій.</p><p></p><p></p><div class="j6Wp3B9M75K"></div><p>Важливо також згадати, що Індія, на відміну від України, не підписувала угоду СОТ про державні закупівлі (вона офіційний спостерігач) та угоду з ЄС, тому простору для експериментів ця країна має більше. Отже, програму Make in India недоцільно порівнювати з пропозицією локалізації в Україні.</p><h2>Інші країни</h2><p>Ініціатори локалізації у публічних закупівлях товарів машинобудівної галузі також наводять приклади Норвегії, Узбекистану, Канади, Китаю та Бангладеш. Проте ці держави – сумнівні приклади для України.</p><p>В Узбекистані програма локалізації мала інший вигляд: вона передбачала залучення інвестицій, надання пільг та субсидій вітчизняним підприємствам, поступову локалізацію продукції. Норвегія входить до Європейської економічної зони, тож вона імплементувала закупівельне законодавство ЄС.</p><p>У Канаді деякі закупівлі понад 25 тис канадських доларів можуть бути доступними лише для постачальників локальних товарів, та це не стосується державних закупівель, що підпадають під дію міжнародних торгових угод.</p><p>Китай – глобальний гравець і місце виробництва майже всього, що пропонують світові виробники з інших країн (авто, телефонія, комп'ютерна і телекомунікаційна техніка, легка промисловість).</p><h2>Якщо не локалізація, то що?</h2><p>Локалізація є лише одним з інструментів економічного протекціонізму – державної політики, спрямованої на підтримку вітчизняного виробництва.</p><p>Зрідка вона може бути виправданою, наприклад, в оборонних закупівлях. Тоді негативні наслідки від обмеження конкуренції – менше зло, ніж потенційна залежність від виробника з іншої країни.</p><p>Однак найчастіше локалізація забирає у вітчизняних постачальників поштовх до розвитку і зростання: навіщо старатися, якщо товар і так куплять?</p><p>Стимулювати власну промисловість можна й іншими методами: субсидіями, інвестиціями, пільговим оподаткуванням і кредитуванням, прогнозованою податковою політикою і ринковим регулюванням, неупередженими діями контрольних і правоохоронних органів, справедливим судочинством.</p><p>Ці поняття варто розрізняти, а не зводити весь міжнародний досвід державної підтримки бізнесу до однієї лишень локалізації. Можливо, варто придивитися якраз до інших, більш ефективних інструментів підтримки власного виробника, замість того, щоб вигадувати аргументи за локалізацію.</p><p><b><i>Співавтор: Артем Давиденко, координатор проєктів досліджень "ТІ Україна"</i></b></p><p></p><div class="w8ecpEPs41rwS3u"></div><p></p><div class="s82J8mQx1xf5s"><div class="n2WlS4lw02f3"><div class="x8dL5wgE5CACqA"><div class="o2iF3ASZMluVc9" id="oeHW0R"><div id="bB57KcskSW6TqX2BJ5bB57KcekSW6T" class="c0kLO oWrh5VKUd2RG"><div id="csa6c" class="bB57KcskSW6Tl0fIzbB57KcekSW6T ifXsFP"><div id="lZwWr" class="bB57KcskSW6TbwD1cBbB57KcekSW6T f949Q"><div id="bB57KcskSW6Tugt57bB57KcekSW6T" class="sE57X4 jKVX7mzkmDP"><div id="ibExlq" class="bB57KcskSW6Tl0fIzbB57KcekSW6T kPXWf"><div id="gW11z4" class="bB57KcskSW6TbwD1cBbB57KcekSW6T kjPMFp"><div id="pyF42" class="bB57KcskSW6TigIf9bB57KcekSW6T rW3ht"><div id="w9r2I9" class="bB57KcskSW6Tl0fIzbB57KcekSW6T j80J4"><div id="wyWiKQ" class="bB57KcskSW6TbwD1cBbB57KcekSW6T kUlUW"><div id="oi10Hn" class="bB57KcskSW6TkLqp5bB57KcekSW6T vckZkt"></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+                            </div>
+
+                            
+                            
+                            <div class="comments row">
+                                <div class="article__social">
+    <div class="rating-controls" data-post-id="1384" role="group">
+        <div class="rating-controls__btn-group">
+            <span class="rating-controls__title">Сподобалась стаття?</span>
+
+            <button class="rating-controls__btn rating-controls__btn_like">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+            </button>
+
+            <button class="rating-controls__btn rating-controls__btn_dislike">
+                <i class="fa fa-thumbs-down" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="rating-controls__btn-group rating-controls__btn-group_none">
+            <span class="rating-controls__title">
+                Сподобалось:
+                <b class="rating-controls__amount" id="likes">
+                    1
+                </b>
+            </span>
+                <span class="rating-controls__title rating-controls__title_ml">
+                Не сподобалось:
+                <b class="rating-controls__amount" id="dislikes">
+                    0
+                </b>
+            </span>
+        </div>
+    </div>
+
+    <div class="rating-controls">
+        <div class="rating-controls__title">Поділитися:</div>
+
+        <social-sharing url="http://infobox.prozorro.org/gpa/kupuy-amerikanske-yak-pracyuye-lokalizaciya-u-sviti-i-shcho-ne-tak-z-cim-v-ukrajini" inline-template>
+            <div  class="block-share__links">
+                <network network="facebook">
+                    <div class="block-share__link m__fb"><i class="fab fa-facebook-f"></i></div>
+                </network>
+                <network network="twitter">
+                    <div class="block-share__link m__twitter"><i class="fab fa-twitter"></i></div>
+                </network>
+                <network network="telegram">
+                    <div class="block-share__link m__telegram"><i class="fab fa-telegram-plane"></i></div>
+                </network>
+            </div>
+        </social-sharing>
+    </div>
+</div>
+
+<div class="block_comments">
+    <div class="coments_title_wrapper">
+        <h3 class="commenst_title">Коментарі</h3>
+        <button class="add_comment button button_blue">Залишити коментар</button>
+    </div>
+    <div class="comments_wrapper">
+                    <h4>До цієї статті ще немає коментарів. Станьте першим.</h4>
+            </div>
+
+</div>
+
+<div class="modal reviev_modal">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="review_form_wrapper">
+                <form id="review_form">
+
+                    <div class="form-group">
+                        <input class="forms-back_input form-control" name="name" id="name" type="text" placeholder="Ваше ім`я">
+                        <input class="forms-back_input form-control" name="email" id="email" type="text" placeholder="Ваш email">
+                        <input type="hidden" name="parent_id" value="0">
+                        <input type="hidden" name="post_id" value="1384">
+                        <input type="hidden" name="module_name" value="gpa">
+                    </div>
+
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="error forms-back_textarea" placeholder="Ваш коментар"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6Le8Qr4ZAAAAAPEneHEfVPgQzaVUf1Hce6ZLYg3b"></div>
+                    </div>
+
+                    <button class="send_review button button_blue">Надіслати коментар</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </article-component>
+
+            </div>
+
+            <aside class="aside__controls article__nav">
+                <acticle-navigation></acticle-navigation>
+            </aside>
+        </main>
+
+        <div class="page-block block-start article__subscribe">
+            <div class="container">
+                <div id="block-subscribe" class="block-subscribe block-subscribe-v2">
+    <div class="block-subscribe__wrapper">
+        <div class="block-subscribe__title">Актуальні новини, статті інфобоксу, роз&#039;яснення</div>
+        <form id="email-subscribe" class="form-subscribe" action="" method="get">
+            <div class="form-subscribe__input_wrapper">
+                <input placeholder="E-mail" class="form-subscribe__input" data-rule-required="true" data-msg-required="Введіть ваш email" data-rule-email="true" data-msg-email="Введіть дійсний email" name="email" type="text" value="">
+            </div>
+
+            <button class="form-subscribe__submit button" type='submit'>ПІДПИСАТИСЯ</button>
+        </form>
+    </div>
+</div>
+            </div>
+        </div>
+
+    </section>
+</main>
+<footer class="footer">
+        <div class="container">
+            <div class="footer__bl">
+                <div class="footer__links">
+                    <a class="footer__link" href="https://infobox.prozorro.org/faq" target="_blank">FAQ</a>
+                    <a class="footer__link" href="https://specifications.prozorro.org/specifications" target="_blank">Специфікації</a>
+                    <a class="footer__link" href="http://edubox.prozorro.org/forum" target="_blank">Форум</a>
+                    <a class="footer__link" href="https://dozorro.org/tools" target="_blank">Інструменти моніторингу</a>
+                    <a class="footer__link" href="https://infobox.prozorro.org/courses">Онлайн курси</a>
+                    <p class="footer__copyright">Інфобокс Prozorro(с)</p>
+                </div>
+                <div class="footer__links">
+                    <a class="footer__link" href="https://prozorro.gov.ua/" target="_blank">Головна Prozorro</a>
+                    <a class="footer__link" href="https://prozorro.gov.ua/majdanchiki-prozorro" target="_blank">Майданчики</a>
+                    <a class="footer__link" href="https://dozorro.org/" target="_blank">Dozorro</a>
+                    <a class="footer__link" href="http://www.me.gov.ua/?lang=uk-UA" target="_blank">МЕРТУ</a>
+                    <a class="footer__link" href="http://www.amc.gov.ua/amku/control/main/uk/index" target="_blank">АМКУ</a>
+                </div>
+            </div>
+            <div class="footer__bl">
+                <div class="footer__contact">
+                    <p class="main__p">Контакти</p>
+                    <p class="contact__phone">тел. (044) 281-42-87</p>
+                    <p class="contact__sh">пн-чт 8.30 - 17.15 <br> пт 8.30 - 16.00</p>
+                    <p class="contact__email">feedback@prozorro.ua</p>
+                </div>
+                <div class="footer__social">
+                    <p class="main__p">Слідкуйте за нами</p>
+                    <div class="social__icons">
+                        <a class="social__link" href="https://www.facebook.com/prozorro.gov.ua" target="_blank"><img src="/images/fb.svg"></a>
+                        <a class="social__link" href="https://www.youtube.com/channel/UCI-2twjrz8C4dYiQXDGZf5g" target="_blank"><img src="/images/yt.svg"></a>
+                        <a class="social__link" href="https://twitter.com/the_prozorro" target="_blank"><img src="/images/tv.svg"></a>
+                        <a class="social__link" href="https://www.instagram.com/prozorro_team/" target="_blank"><img src="/images/inst.svg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://embed.small.chat/T04QGHNFQGFJRS25CY.js" async></script>
+
+<div class="modal m-subscription">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+
+            <div class="form-content">
+                <div class="form-content-first">
+                    <div class="modal__title">Яку саме інформацію ви бажаєте отримувати?</div>
+                    <div class="modal__description">Ми прагнемо доставляти лише ті повідомлення, які ви хочете отримувати. Якщо вас цікавлять повідомлення про щось нове на інфобоксі, залиште вашу адресу електроної пошти тут.</div>
+
+                    <form method="POST" action="https://infobox.prozorro.org/gpa/kupuy-amerikanske-yak-pracyuye-lokalizaciya-u-sviti-i-shcho-ne-tak-z-cim-v-ukrajini" accept-charset="UTF-8" role="form" class="form-help form_ajax" data-url="/api/subscribe" data-renew="1"><input name="_token" type="hidden" value="Ms7khLzxMKyyFLFhjdmoLoCEtB6rvMJFc2686zcV">
+
+                    <input type="hidden" name="email" class="input_email">
+
+                    <div class="modal__options">
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="customer" type="checkbox" checked value="1">
+                                <div class="blue">для замовників</div>
+                                <div>Отримувати поради та актуальну інформацію для Замовника</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="users" type="checkbox" checked value="1">
+                                <div class="green">для постачальників</div>
+                                <div>Отримувати повідомлення про нові статті та актуальну інформацію для постачальників</div>
+                            </label>
+                        </div>
+                        <div class="option__item">
+                            <label class="item__description">
+                                <input name="press" type="checkbox" checked value="1">
+                                <div class="orange">для журналістів</div>
+                                <div>Отримувати повідомлення про актуальні можливості системи з моніторінгу публічних закупівель</div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="form-subscribe__submit button button_green solid" type='submit'>ПІДПИСАТИСЯ</button>
+
+                    </form>
+                </div>
+
+                <div class="form-content-last">
+                    <div class="message">
+                        Дякуємо за підписку на розсилку від Прозорро
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal-window_image-zoom">
+    <div class="modal__dialog">
+        <div class="dialog__container">
+            <div class="modal__close">✖</div>
+            <div class="modal-window__image-zoom">
+                <img class="modal-window_image" src="">
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="/js/app.js?id=dcc7a4755264c6411045"></script>
+</body>
+</html>
